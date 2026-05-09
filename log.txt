@@ -1,0 +1,348 @@
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [OFF]
+  Lần thử:   0
+  Đúng:      0
+  Đã học:    0
+  DB size:   53970
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [>] Đang quét tìm câu đố (Đảm bảo bạn đang trong ván đấu)...
+  [>] Đang quét tìm câu đố (Đảm bảo bạn đang trong ván đấu)...
+  [>] Đang quét tìm câu đố (Đảm bảo bạn đang trong ván đấu)...
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [OFF]
+  Lần thử:   0
+  Đúng:      0
+  Đã học:    0
+  DB size:   53970
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [>] Đang quét câu đố... (Khong tim thay o chu w-7 h-9)
+  [>] Đang quét câu đố... (Khong tim thay o chu w-7 h-9)
+  [>] Đang quét câu đố... (Khong tim thay o chu w-7 h-9)
+  [>] Đang quét câu đố... (Khong tim thay o chu w-7 h-9)
+  [>] Đang quét câu đố... (Khong tim thay o chu w-7 h-9)
+  [>] Đang quét câu đố... (Khong tim thay o chu w-7 h-9)
+  [>] Đang quét câu đố... (Khong tim thay o chu w-7 h-9)
+  [>] Đang quét câu đố... (Khong tim thay o chu w-7 h-9)
+  [>] Đang quét câu đố... (Khong tim thay o chu w-7 h-9)
+  [>] Đang quét câu đố... (Khong tim thay o chu w-7 h-9)
+  [>] Đang quét câu đố... (Khong tim thay o chu w-7 h-9)
+  [>] Đang quét câu đố... (Khong tim thay o chu w-7 h-9)
+  [>] Đang quét câu đố... (Khong tim thay o chu w-7 h-9)
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [>] Đang quét câu đố... (Khong tim thay o chu .w-7.h-9 tren toan trang)
+  [>] Đang quét câu đố... (Khong tim thay o chu .w-7.h-9 tren toan trang)
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [OFF]
+  Lần thử:   0
+  Đúng:      0
+  Đã học:    0
+  DB size:   53970
+==================================================
+  [OK] AUTO MODE: ON.
+  [>] Đang quét câu đố... (Khong tim thay o chu .w-7.h-9 tren toan trang)
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [OFF]
+  Lần thử:   0
+  Đúng:      0
+  Đã học:    0
+  DB size:   53970
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [OFF]
+  Lần thử:   0
+  Đúng:      0
+  Đã học:    0
+  DB size:   53970
+==================================================
+  [OK] AUTO MODE: ON.
+  [>] Đang quét câu đố... (Khong tim thay o chu .w-7.h-9)
+  [>] Đang quét câu đố... (Khong tim thay o chu .w-7.h-9)
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [OFF]
+  Lần thử:   0
+  Đúng:      0
+  Đã học:    0
+  DB size:   53970
+==================================================
+  [OK] AUTO MODE: ON.
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [OFF]
+  Lần thử:   0
+  Đúng:      0
+  Đã học:    0
+  DB size:   53970
+==================================================
+  [OK] AUTO MODE: ON.
+[NEW] [*][*][*] | thuế | noun | "I need to pay my *** soon." | "I need to pay my *** soon."
+  [>] Đang quét câu đố... Khong tim thay o chu .w-7.h-9
+[NEW] [*][*][*]  [*][*][*][*][*][*]  [*][*][*] | giao thừa | noun | "Many people celebrate ************** with fireworks." | "Many people celebrate ************** with fireworks."
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   0
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53970
+==================================================
+  [OK] AUTO MODE: ON.
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   0
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53970
+==================================================
+  [OK] AUTO MODE: ON.
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   0
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53970
+==================================================
+  [OK] AUTO MODE: ON.
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   0
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53970
+==================================================
+  [OK] AUTO MODE: ON.
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   0
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53970
+==================================================
+  [OK] AUTO MODE: ON.
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [!] AUTO MODE: OFF.
+  [OK] AUTO MODE: ON.
+  [!] AUTO MODE: OFF.
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   0
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53970
+==================================================
+  [OK] AUTO MODE: ON.
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   7
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53970
+==================================================
+  [OK] AUTO MODE: ON.
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   9
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53970
+==================================================
+  [OK] AUTO MODE: ON.
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   15
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53970
+==================================================
+  [OK] AUTO MODE: ON.
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   17
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53970
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   11
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53970
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   0
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53970
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   0
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53970
+==================================================
+  [OK] Đã kết nối trình duyệt.
+
+==================================================
+  [EXIT]
+  Lần thử:   0
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53970
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [X] Loop Error: 'AnsiStyle' object has no attribute 'WHITE'
+  [X] Loop Error: 'AnsiStyle' object has no attribute 'WHITE'
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   13
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53970
+==================================================
+  [OK] AUTO MODE: ON.
+  [X] Loop Error: 'AnsiStyle' object has no attribute 'WHITE'
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [X] Loop Error: 'AnsiStyle' object has no attribute 'YELLOW'
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   0
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53970
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   7
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53970
+==================================================
+  [OK] AUTO MODE: ON.
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   19
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53970
+==================================================
+  [OK] AUTO MODE: ON.
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   34
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53970
+==================================================
+  [OK] AUTO MODE: ON.
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   35
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53970
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   0
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53970
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: COLLECTION
+  [GUESS] Đã đoán: SILKY
+  [GUESS] Đã đoán: SLEEK
+  [GUESS] Đã đoán: DESCENDANT
+  [GUESS] Đã đoán: EYEBROW
+  [GUESS] Đã đoán: ORANGE
+  [GUESS] Đã đoán: FIREFIGHTER
+  [GUESS] Đã đoán: ADVERTISING
