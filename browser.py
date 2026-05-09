@@ -220,9 +220,9 @@ class Browser:
         import random, time
         for ch in text:
             self._send("Input.dispatchKeyEvent", {"type": "keyDown", "text": ch, "key": ch})
-            time.sleep(random.uniform(0.015, 0.03))
+            time.sleep(random.uniform(0.025, 0.05))
             self._send("Input.dispatchKeyEvent", {"type": "keyUp", "key": ch})
-            time.sleep(random.uniform(0.015, 0.03))
+            time.sleep(random.uniform(0.02, 0.04))
 
     def press_enter(self):
         self._send("Input.dispatchKeyEvent", {"type": "keyDown", "key": "Enter", "windowsVirtualKeyCode": 13, "text": "\r"})

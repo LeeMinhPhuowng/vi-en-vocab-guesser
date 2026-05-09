@@ -15,7 +15,7 @@ DEFAULT_CONFIG = {
     "model": "paraphrase-multilingual-MiniLM-L12-v2", 
     "debug_mode": False,
     "loop_delay": 3.0,
-    "confidence_threshold": 0.7
+    "confidence_threshold": 0.8
 }
 
 

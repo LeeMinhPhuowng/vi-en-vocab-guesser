@@ -218,9 +218,9 @@ def auto_solve_loop(config):
                 
                 # Logic delay: nếu hints không đổi (đoán sai), kiểm tra số lần sai để tăng delay
                 if last_submit_time and hints_now == hints_when_submitted:
-                    delay = 2.5 if current_hint_fails >= 2 else 1.5
+                    delay = 3 if current_hint_fails >= 2 else 2
                     if (time.perf_counter() - last_submit_time) < delay:
-                        time.sleep(0.05)
+                        time.sleep(0.1)
                         continue
                     else:
                         # Quá thời gian mà hint không đổi -> Xác nhận đoán sai lần này

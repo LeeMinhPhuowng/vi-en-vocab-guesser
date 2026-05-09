@@ -69,6 +69,19 @@ class ProSolverAI:
         self.vocab_db['word_structure'] = self.vocab_db['word'].apply(lambda x: [len(part) for part in str(x).split() if part])
         
         self.words_no_space = self.vocab_db['word_only']
+        
+        # Nạp danh sách Oxford 3000 để ưu tiên từ phổ biến
+        self.oxford_words = set()
+        oxford_path = os.path.join(os.path.dirname(__file__), "oxford3000.txt")
+        if os.path.exists(oxford_path):
+            try:
+                with open(oxford_path, "r", encoding="utf-8") as f:
+                    for line in f:
+                        w = line.strip().lower()
+                        if w and len(w) > 1: self.oxford_words.add(w)
+                print(f"  [AI] Da nap {len(self.oxford_words)} tu Oxford 3000.")
+            except: pass
+
         print(f"  [OK] Turbo DB Ready: {len(self.vocab_db):,} words")
 
     def solve(self, hint_vi, length, pattern, word_structure=None, example_en="", example_vi="", pos_tag="", tried_words=[]):
@@ -138,6 +151,17 @@ class ProSolverAI:
             if en_keywords:
                 kw_p = "|".join([re.escape(k) for k in en_keywords])
                 candidates.loc[candidates['hint_vi'].str.contains(kw_p, na=False), 'final_score'] += 0.6
+
+        # 6. POPULARITY BONUSES (Oxford 3000 + Small ID)
+        # Thưởng cho từ trong bộ Oxford
+        if self.oxford_words:
+            candidates.loc[candidates['word'].isin(self.oxford_words), 'final_score'] += 0.35
+        
+        # Thưởng cho ID nhỏ (Ưu tiên các từ cơ bản nếu database được sắp xếp)
+        if 'id' in candidates.columns:
+            # Chuyển ID về dạng số và cộng bonus (ID càng nhỏ bonus càng cao, max 0.15)
+            candidates['id_val'] = pd.to_numeric(candidates['id'], errors='coerce').fillna(999999)
+            candidates['final_score'] += (10000 / (candidates['id_val'] + 10000)) * 0.15
 
         return candidates.sort_values('final_score', ascending=False).head(5)
 

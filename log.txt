@@ -503,3 +503,59 @@
   [OK] Bạn đã đoán đúng
   [GUESS] Đã đoán: VOTE
   [OK] Bạn đã đoán đúng
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: KINSHIP
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: SIGNATURE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: COLLECTION
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: REPAIR
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: CORRESPOND
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: EMPLOYMENT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: CONFLICT
+  [GUESS] Đã đoán: ACADEMIC
+  [GUESS] Đã đoán: PRINCESS
+  [GUESS] Đã đoán: PASSPORT
+  [GUESS] Đã đoán: POLITICS
+  [GUESS] Đã đoán: PROGRESS
+  [GUESS] Đã đoán: PROCEEDS
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: PRINCE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: TREATMENT
+  [GUESS] Đã đoán: REFERENCE
+  [GUESS] Đã đoán: EXECUTIVE
+  [GUESS] Đã đoán: TRAVELLER
+  [GUESS] Đã đoán: TRANSPORT
+  [GUESS] Đã đoán: THERAPIST
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: EFFECT
+  [OK] Bạn đã đoán đúng
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: SUPPORTIVE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: AWARENESS
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: YOUTH
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: FISH
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: OVER-THE-TOP
+  [GUESS] Đã đoán: OVEREXTENDED
+  [GUESS] Đã đoán: OVERREACHING
+  [GUESS] Đã đoán: OVERBUILDING
+  [GUESS] Đã đoán: OVERSPENDING
+  [GUESS] Đã đoán: OVERWHELMING
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: CONVENIENT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: PATRIOT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: FADE
+  [OK] Bạn đã đoán đúng
