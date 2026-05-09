@@ -67,7 +67,7 @@ Chạy file `run.bat`. File này sẽ tự động:
 
 ---
 
-## ⚙️ Cấu hình (config.json)
+## Cấu hình (config.json)
 
 Bạn có thể tùy chỉnh các thông số trong file `config.json`:
 - `cdp_port`: Cổng debug của trình duyệt (mặc định 9222).
@@ -77,9 +77,7 @@ Bạn có thể tùy chỉnh các thông số trong file `config.json`:
 
 ---
 
-## ⚠️ Lưu ý
+## Lưu ý
 - Công cụ này được phát triển cho mục đích giáo dục và nghiên cứu về tự động hóa trình duyệt và AI.
 - Vui lòng sử dụng có trách nhiệm.
 
----
-*Phát triển bởi Antigravity AI Team.*
