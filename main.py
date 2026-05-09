@@ -46,6 +46,8 @@ last_example_en = ""
 last_solve_input_key = None
 last_submit_time = 0.0
 hints_when_submitted = ""
+current_hint_fails = 0
+status_logged = False
 
 
 # Thong ke session
@@ -148,8 +150,23 @@ def auto_solve_loop(config):
             hints_now = (str(data.get("hints") or "none")).strip()
             pos_tag, example_en_now, status = data.get("pos_tag", ""), data.get("example_en", ""), data.get("gameStatus", "playing")
             example_vi_now = data.get("example_vi", "")
+            hint_vi_now = data.get("hint_vi", "")
 
-            # 1. HỌC KHI KẾT THÚC (Log ngắn gọn)
+            # 1. LOG TRẠNG THÁI (Ngay khi kết thúc câu hỏi)
+            if status != "playing" and not status_logged:
+                status_logged = True
+                if status == "player_correct":
+                    msg = f"  {Fore.GREEN}[OK] Bạn đã đoán đúng"
+                    print(msg); _log_to_file(msg)
+                    session_stats["correct"] += 1
+                elif status == "enemy_correct":
+                    msg = f"  {Fore.YELLOW}[!] Đối thủ đã đoán đúng"
+                    print(msg); _log_to_file(msg)
+                elif status == "timeout":
+                    msg = f"  {Fore.MAGENTA}[TIMEOUT] Hết giờ"
+                    print(msg); _log_to_file(msg)
+
+            # 2. HỌC KHI KẾT THÚC (Log ngắn gọn)
             if status != "playing" or "đáp án" in current_text.lower():
                 raw_revealed = str(data.get("revealedAnswer") or "").strip()
                 revealed = validate_and_clean_answer(raw_revealed, ws_list)
@@ -166,18 +183,12 @@ def auto_solve_loop(config):
                         solve_time_str = f"{int((time.perf_counter() - (last_submit_time - 0.6)) * 1000)}ms"
 
                     print(f"\n  {Fore.WHITE}{Style.BRIGHT}>> ĐÁP ÁN: {Fore.GREEN}{final_answer.upper()} {Fore.CYAN}({solve_time_str})")
+                    msg_ans = f"  {Fore.CYAN}└─ Đáp án là: {Fore.GREEN}{final_answer.upper()}"
+                    print(msg_ans); _log_to_file(msg_ans)
 
-                    if status == "player_correct":
-                        print(f"  {Fore.GREEN}[OK] Chính xác!")
-                        session_stats["correct"] += 1
-                    elif status == "enemy_correct":
-                        print(f"  {Fore.YELLOW}[!] Đối thủ đã đoán đúng.")
-                    elif status == "timeout":
-                        print(f"  {Fore.MAGENTA}[TIMEOUT] Hết giờ.")
-                    
+                    # HỌC TỪ MỚI
                     session_stats["learned"] += 1
-                    # Luu vao DB kem day du thong tin
-                    threading.Thread(target=learn, args=(final_answer, current_text, translation, translation, example_vi_now, ws_list, pos_tag), daemon=True).start()
+                    threading.Thread(target=learn, args=(final_answer, current_text, translation, hint_vi_now, example_vi_now, ws_list, pos_tag), daemon=True).start()
                     
                     tried_words = []
                     time.sleep(2.0)
@@ -186,31 +197,44 @@ def auto_solve_loop(config):
             # 2. GIẢI CÂU ĐỐ (Log chi tiết để hỗ trợ làm bài)
             if letter_count > 0:
                 if round_id != last_round_id:
-                    tried_words, last_round_id, last_hints_logged, last_pos_logged, last_solve_input_key, last_submit_time, hints_when_submitted, last_example_en = [], round_id, "", "", None, 0.0, "", example_en_now
+                    tried_words, last_round_id, last_hints_logged, last_pos_logged, last_solve_input_key, last_submit_time, hints_when_submitted, last_example_en, current_hint_fails, status_logged = [], round_id, "", "", None, 0.0, "", example_en_now, 0, False
                     slots_line = format_puzzle_slots(ws_list, hints_now, letter_count)
                     
                     # IN BANG TONG HOP PREMIUM KHI MOI HIEN DE
                     print(f"\n  {Fore.CYAN}{Style.BRIGHT}[NEW QUESTION]")
                     print(f"  {Fore.CYAN}├ Đề (ô): {Style.RESET_ALL}{slots_line} (Structure: {ws_list})")
                     print(f"  {Fore.CYAN}├ Nghĩa: {Fore.WHITE}{translation or 'Nghĩa ẩn'}")
-                    print(f"  {Fore.CYAN}├ Ví dụ VN: {Fore.WHITE}{example_vi_now}")
+                    print(f"  {Fore.CYAN}├ Giải thích: {Fore.WHITE}{hint_vi_now or 'N/A'}")
+                    print(f"  {Fore.CYAN}├ Ví dụ VN: {Fore.WHITE}{example_vi_now or 'N/A'}")
                     print(f"  {Fore.CYAN}├ Ví dụ EN: {Fore.WHITE}\"{example_en_now}\"")
                     print(f"  {Fore.CYAN}└ Loại từ: {Fore.YELLOW}{pos_tag.upper()}")
 
                 if hints_now != last_hints_logged and last_hints_logged != "":
                     slots_line = format_puzzle_slots(ws_list, hints_now, letter_count)
                     print(f"  {Fore.MAGENTA}[DOM]{Style.RESET_ALL} Mở gợi ý → {slots_line}")
-                    last_hints_logged, last_submit_time = hints_now, 0.0
+                    last_hints_logged, last_submit_time, current_hint_fails = hints_now, 0.0, 0
 
                 solve_key = (round_id, hints_now, tuple(tried_words))
-                if solve_key == last_solve_input_key or (last_submit_time and hints_now == hints_when_submitted and (time.perf_counter() - last_submit_time) < 1.0):
+                
+                # Logic delay: nếu hints không đổi (đoán sai), kiểm tra số lần sai để tăng delay
+                if last_submit_time and hints_now == hints_when_submitted:
+                    delay = 2.5 if current_hint_fails >= 2 else 1.5
+                    if (time.perf_counter() - last_submit_time) < delay:
+                        time.sleep(0.05)
+                        continue
+                    else:
+                        # Quá thời gian mà hint không đổi -> Xác nhận đoán sai lần này
+                        current_hint_fails += 1
+                        last_submit_time = 0.0 # Reset để cho phép lượt đoán tiếp theo
+                
+                if solve_key == last_solve_input_key:
                     time.sleep(0.05)
                     continue
 
                 t0 = time.perf_counter()
                 try:
                     data["tried_words"] = tried_words 
-                    answer = solve(data, config.get("model"))
+                    answer = solve(data, config.get("model"), threshold=config.get("confidence_threshold", 0.6))
                     if not answer:
                         time.sleep(0.1)
                         continue

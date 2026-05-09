@@ -346,3 +346,160 @@
   [GUESS] Đã đoán: ORANGE
   [GUESS] Đã đoán: FIREFIGHTER
   [GUESS] Đã đoán: ADVERTISING
+  [GUESS] Đã đoán: HAPPEN
+  [GUESS] Đã đoán: BUNT
+  [GUESS] Đã đoán: PUNT
+  [GUESS] Đã đoán: CONK
+  [GUESS] Đã đoán: BONK
+  [GUESS] Đã đoán: WHAM
+  [GUESS] Đã đoán: PUTT
+  [GUESS] Đã đoán: KICK
+  [GUESS] Đã đoán: ACCOUNT
+  [GUESS] Đã đoán: IMPOSE
+  [GUESS] Đã đoán: ACQUIRE
+  [GUESS] Đã đoán: ACHIEVE
+  [GUESS] Đã đoán: PROTECT
+  [GUESS] Đã đoán: LOUSE
+  [GUESS] Đã đoán: CREEP
+  [GUESS] Đã đoán: WRONG
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   24
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53970
+==================================================
+  [GUESS] Đã đoán: DEATH
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: ESCALATE
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   26
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53970
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: GYRUS
+  [GUESS] Đã đoán: AGATE
+  [GUESS] Đã đoán: BRAIN
+  [GUESS] Đã đoán: CONSEQUENCE
+  [GUESS] Đã đoán: AMBULATE
+  [GUESS] Đã đoán: REDIRECT
+  [GUESS] Đã đoán: RE-ROUTE
+  [GUESS] Đã đoán: TRANSMIT
+  [GUESS] Đã đoán: TRANSFER
+  [GUESS] Đã đoán: CELLO
+  [GUESS] Đã đoán: VIRUS
+  [GUESS] Đã đoán: SCIENTIFIC
+  [GUESS] Đã đoán: ORDOVICIAN
+  [GUESS] Đã đoán: HISTOLOGIC
+  [GUESS] Đã đoán: GEOGRAPHIC
+  [GUESS] Đã đoán: GEOLOGICAL
+  [GUESS] Đã đoán: GEOTHERMAL
+  [GUESS] Đã đoán: FOWL
+  [GUESS] Đã đoán: HAWK
+  [GUESS] Đã đoán: PREY
+  [GUESS] Đã đoán: HUNT
+  [GUESS] Đã đoán: EXCURSION
+  [GUESS] Đã đoán: MEDICO
+  [GUESS] Đã đoán: DOCTOR
+  [GUESS] Đã đoán: DIETETICS
+  [GUESS] Đã đoán: NUTRITION
+  [GUESS] Đã đoán: ENDEAVOUR
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: CHOOSE
+  [GUESS] Đã đoán: PICKED
+  [GUESS] Đã đoán: SELECT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: COUNTERARGUMENT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: TENNIS
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: PRAISE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: CONTRIBUTION
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: OVERTIME
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: VERB
+  [GUESS] Đã đoán: NOUN
+  [GUESS] Đã đoán: WORD
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: SUPPER
+  [GUESS] Đã đoán: DINNER
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: BUDGIE
+  [GUESS] Đã đoán: TIRADE
+  [GUESS] Đã đoán: MINUTE
+  [GUESS] Đã đoán: LEDGER
+  [GUESS] Đã đoán: LIGAND
+  [GUESS] Đã đoán: LENGTH
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: REGULARIZATION
+  [GUESS] Đã đoán: ADMINISTRATION
+  [OK] Bạn đã đoán đúng
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: PLAIN
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: GUILTY
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: WHOPPING
+  [GUESS] Đã đoán: GIGANTIC
+  [GUESS] Đã đoán: COLOSSAL
+  [GUESS] Đã đoán: ENORMOUS
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: TERRORISM
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: FLARE-UP
+  [GUESS] Đã đoán: BREAKOUT
+  [GUESS] Đã đoán: OUTBREAK
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: MANIPULATION
+  [OK] Bạn đã đoán đúng
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: BRAND
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: CLOACA
+  [GUESS] Đã đoán: TORQUE
+  [GUESS] Đã đoán: GOALIE
+  [GUESS] Đã đoán: TISSUE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: OFFSPRING
+  [OK] Bạn đã đoán đúng
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   0
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53970
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: ANCIENT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: GANGBUSTER
+  [GUESS] Đã đoán: SUCCESSFUL
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: RATING
+  [GUESS] Đã đoán: REVIEW
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: CERTIFY
+  [GUESS] Đã đoán: ENDORSE
+  [GUESS] Đã đoán: CONFIRM
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: VOTE
+  [OK] Bạn đã đoán đúng

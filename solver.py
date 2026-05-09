@@ -118,10 +118,10 @@ def _build_pattern(hints_str: str, letter_count: int) -> str:
     return "".join(pattern)
 
 
-def solve(game_data: dict, model_name: str = None) -> str:
+def solve(game_data: dict, model_name: str = None, threshold: float = 0.5) -> str:
     solver = _get_solver()
 
-    letter_count = game_data.get("letterCount", 0)
+    letter_count = game_data.get("letter_count") or game_data.get("letterCount", 0)
     hints_str    = game_data.get("hints", "none")
     tried_words  = game_data.get("tried_words", [])
     word_structure = game_data.get("wordStructure") or None
@@ -180,13 +180,17 @@ def solve(game_data: dict, model_name: str = None) -> str:
     if results.empty:
         return ""
 
-    # CHỌN TỪ CHƯA THỬ
+    # CHỌN TỪ CHƯA THỬ VÀ ĐẠT NGƯỠNG TIN CẬY
     for _, row in results.iterrows():
         word = str(row["word"]).lower().strip()
+        score = row.get("final_score", 0)
         if word not in tried_words:
-            return word
+            if score >= threshold:
+                return word
+            else:
+                return "" # Điểm thấp quá, không đoán
 
-    return None
+    return ""
 
 def learn(word, game_text, translation_vi="", hint_vi="", example_vi="", word_structure=None, pos_tag=""):
     try:
@@ -202,15 +206,15 @@ def learn(word, game_text, translation_vi="", hint_vi="", example_vi="", word_st
         hint_vi = (hint_vi or h_fallback).strip()
         example_vi = (example_vi or e_vi_fallback).strip()
 
-        learn_hint = translation_vi or hint_vi
-
-        if word and learn_hint:
-            solver.learn_new_case(
-                word=word,
-                hint_vi=learn_hint,
-                example_vi=example_vi,
-                word_structure=word_structure,
-                pos_tag=pos_tag
-            )
+        # Học cả bản dịch và gợi ý (nếu chúng khác nhau)
+        for h in [translation_vi, hint_vi]:
+            if h and len(h) > 1:
+                solver.learn_new_case(
+                    word=word,
+                    hint_vi=h,
+                    example_vi=example_vi,
+                    word_structure=word_structure,
+                    pos_tag=pos_tag
+                )
     except Exception as e:
         print(f"  [!] Lỗi Database: {e}")

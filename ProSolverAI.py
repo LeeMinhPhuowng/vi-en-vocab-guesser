@@ -145,12 +145,39 @@ class ProSolverAI:
         word, hint_vi = str(word).lower().strip(), str(hint_vi).strip()
         pos_tag = str(pos_tag).lower().strip() or "learned"
         
+        if not word or not hint_vi: return
+
         with _db_lock:
-            existing = (self.vocab_db['word'] == word)
-            if existing.any():
-                # Cập nhật nghĩa nếu có thay đổi
-                self.vocab_db.at[self.vocab_db[existing].index[0], 'hint_vi'] = hint_vi
+            existing_mask = (self.vocab_db['word'] == word)
+            if existing_mask.any():
+                idx = self.vocab_db[existing_mask].index[0]
+                
+                # 1. Cập nhật JSON meaning
+                try:
+                    m_raw = self.vocab_db.at[idx, 'meaning']
+                    meaning_json = json.loads(m_raw) if m_raw else {}
+                except:
+                    meaning_json = {}
+                
+                if pos_tag not in meaning_json:
+                    meaning_json[pos_tag] = []
+                
+                if hint_vi not in meaning_json[pos_tag]:
+                    meaning_json[pos_tag].append(hint_vi)
+                    
+                    # 2. Lưu lại JSON và cập nhật các trường phái sinh
+                    self.vocab_db.at[idx, 'meaning'] = json.dumps(meaning_json, ensure_ascii=False)
+                    
+                    all_hints = []
+                    for v in meaning_json.values():
+                        if isinstance(v, list): all_hints.extend(v)
+                    self.vocab_db.at[idx, 'hint_vi'] = ", ".join(list(set(all_hints)))
+                    self.vocab_db.at[idx, 'pos_list'] = list(meaning_json.keys())
+                    
+                    # Lưu xuống file
+                    self.vocab_db.to_parquet(self.db_path, index=False)
             else:
+                # 3. Tạo mới hoàn toàn
                 new_row = pd.DataFrame([{
                     "word": word, "ipa": "", "parts": "[]", 
                     "meaning": json.dumps({pos_tag: [hint_vi]}, ensure_ascii=False), 
@@ -159,8 +186,9 @@ class ProSolverAI:
                     "pos_list": [pos_tag]
                 }])
                 self.vocab_db = pd.concat([self.vocab_db, new_row], ignore_index=True)
+                # Cập nhật lại words_no_space để không bị lỗi regex
                 self.words_no_space = self.vocab_db['word'].str.replace(" ", "", regex=False)
-            self.vocab_db.to_parquet(self.db_path, index=False)
+                self.vocab_db.to_parquet(self.db_path, index=False)
 
     def get_db_size(self): return len(self.vocab_db)
 
