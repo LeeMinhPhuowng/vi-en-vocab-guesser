@@ -16,7 +16,7 @@ import solver
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
 sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8', errors='replace')
 
-from colorama import init, Fore, Style
+from colorama import init, Fore, Style, Back
 import keyboard
 
 from config import load_config
@@ -83,27 +83,10 @@ def finish(msg):
     print(out)
     _log_to_file(out)
 
-def validate_and_clean_answer(raw_answer, expected_structure):
-    if not raw_answer or not expected_structure: return None
-    clean_raw = re.sub(r'[^a-zA-Z\s]', '', raw_answer).strip().lower()
-    parts = clean_raw.split()
-    if len(parts) == len(expected_structure):
-        match = True
-        for p, expected_len in zip(parts, expected_structure):
-            if len(p) != expected_len:
-                match = False
-                break
-        if match: return " ".join(parts).upper()
-    if len(parts) > len(expected_structure):
-        for i in range(len(parts) - len(expected_structure) + 1):
-            sub_parts = parts[i : i + len(expected_structure)]
-            match = True
-            for p, expected_len in zip(sub_parts, expected_structure):
-                if len(p) != expected_len:
-                    match = False
-                    break
-            if match: return " ".join(sub_parts).upper()
-    return None
+def validate_and_clean_answer(raw_answer, expected_structure=None):
+    if not raw_answer: return None
+    # Lấy Y ĐÚC những gì web hiện ra, chỉ bỏ khoảng trắng thừa ở đầu/cuối
+    return raw_answer.strip().upper()
 
 def extract_diff_word(old_ex, new_ex, expected_structure=None):
     if not old_ex or not new_ex or old_ex == new_ex: return None
@@ -127,6 +110,9 @@ def connect_browser(config):
 
 def auto_solve_loop(config):
     global auto_mode, browser, tried_words, last_learned_round_id, last_round_id, last_hints_logged, last_pos_logged, last_solve_input_key, last_submit_time, hints_when_submitted, last_example_en
+    last_valid_text = ""; last_valid_translation = ""; last_valid_hint_vi = ""
+    last_valid_pos = ""; last_valid_ws = []
+    status_logged = False # Khởi tạo để tránh lỗi UnboundLocalError
 
     while auto_mode:
         if not lock.acquire(blocking=False):
@@ -146,19 +132,31 @@ def auto_solve_loop(config):
             
             current_text, letter_count = data.get("text", ""), data.get("letterCount", 0)
             translation, ws_list = (data.get("translation_vi") or "").strip(), data.get("wordStructure") or []
+            if ws_list and sum(ws_list) > 0:
+                auto_solve_loop.last_valid_ws = ws_list
+            
             round_id = f"{letter_count}|{translation}|{ws_list!s}"
             hints_now = (str(data.get("hints") or "none")).strip()
             pos_tag, example_en_now, status = data.get("pos_tag", ""), data.get("example_en", ""), data.get("gameStatus", "playing")
-            example_vi_now = data.get("example_vi", "")
             hint_vi_now = data.get("hint_vi", "")
+
+            # 0. LƯU NGỮ CẢNH (Để học sau khi round kết thúc)
+            if status == "playing":
+                last_valid_text = data.get("text", "")
+                last_valid_translation = data.get("translation_vi", "")
+                last_valid_hint_vi = data.get("hint_vi", "")
+                last_valid_pos = data.get("pos_tag", "")
+                last_valid_ws = ws_list
 
             # 1. LOG TRẠNG THÁI (Ngay khi kết thúc câu hỏi)
             if status != "playing" and not status_logged:
                 status_logged = True
+                
                 if status == "player_correct":
                     msg = f"  {Fore.GREEN}[OK] Bạn đã đoán đúng"
                     print(msg); _log_to_file(msg)
                     session_stats["correct"] += 1
+
                 elif status == "enemy_correct":
                     msg = f"  {Fore.YELLOW}[!] Đối thủ đã đoán đúng"
                     print(msg); _log_to_file(msg)
@@ -166,35 +164,64 @@ def auto_solve_loop(config):
                     msg = f"  {Fore.MAGENTA}[TIMEOUT] Hết giờ"
                     print(msg); _log_to_file(msg)
 
-            # 2. HỌC KHI KẾT THÚC (Log ngắn gọn)
+            # 2. HỌC KHI KẾT THÚC (Dành cho trường hợp hết giờ hoặc đối thủ đoán)
             if status != "playing" or "đáp án" in current_text.lower():
-                raw_revealed = str(data.get("revealedAnswer") or "").strip()
-                revealed = validate_and_clean_answer(raw_revealed, ws_list)
-                diff_word = extract_diff_word(last_example_en, example_en_now, expected_structure=ws_list)
+                final_answer = None
+                raw_revealed = ""
+                # SỬ DỤNG CẤU TRÚC ĐÃ LƯU (Tránh việc ô chữ biến mất làm rỗng ws_list)
+                current_ws = ws_list if (ws_list and sum(ws_list) > 0) else getattr(auto_solve_loop, "last_valid_ws", [])
                 
-                final_answer = revealed or diff_word
-                
+                if current_ws and sum(current_ws) > 0:
+                    for _ in range(12): # Tang len 12 lan de khong bo lo
+                        raw_revealed = str(data.get("revealedAnswer") or "").strip()
+                        revealed = validate_and_clean_answer(raw_revealed, current_ws)
+                        if revealed:
+                            final_answer = revealed
+                            break
+                        time.sleep(0.25) # Poll nhanh hon
+                        data = browser.read_game_data()
+
+                # FALLBACK: Nếu bạn đoán đúng nhưng không quét được màn hình, lấy từ tried_words
+                if not final_answer and status == "player_correct" and tried_words:
+                    final_answer = tried_words[-1]
+                if final_answer and round_id != getattr(auto_solve_loop, "last_logged_ans_id", ""):
+                    auto_solve_loop.last_logged_ans_id = round_id
+                    print(f"\n  {Back.GREEN}{Fore.BLACK} ĐÁP ÁN THẬT: {final_answer.upper()} {Style.RESET_ALL}")
+                    msg_ans = f"  {Fore.CYAN}└─ Đáp án của câu hỏi là: {Fore.GREEN}{final_answer.upper()}"
+                    _log_to_file(msg_ans)
+                # HỌC TỪ MỚI (Sử dụng ngữ cảnh đã bảo lưu)
                 if final_answer and round_id != last_learned_round_id:
                     last_learned_round_id = round_id
-                    
-                    # Tinh toan thoi gian giai
-                    solve_time_str = "N/A"
-                    if last_submit_time > 0:
-                        solve_time_str = f"{int((time.perf_counter() - (last_submit_time - 0.6)) * 1000)}ms"
-
-                    print(f"\n  {Fore.WHITE}{Style.BRIGHT}>> ĐÁP ÁN: {Fore.GREEN}{final_answer.upper()} {Fore.CYAN}({solve_time_str})")
-                    msg_ans = f"  {Fore.CYAN}└─ Đáp án là: {Fore.GREEN}{final_answer.upper()}"
-                    print(msg_ans); _log_to_file(msg_ans)
-
-                    # HỌC TỪ MỚI
                     session_stats["learned"] += 1
-                    threading.Thread(target=learn, args=(final_answer, current_text, translation, hint_vi_now, example_vi_now, ws_list, pos_tag), daemon=True).start()
+                    print(f"  {Fore.BLUE}[LEARN]{Style.RESET_ALL} Đang lưu kiến thức: {Fore.WHITE}{final_answer.upper()} -> {last_valid_translation}")
+                    # Sử dụng dữ liệu đã bảo lưu để học chính xác
+                    threading.Thread(
+                        target=learn, 
+                        args=(final_answer, last_valid_text, last_valid_translation, last_valid_hint_vi, last_valid_ws, last_valid_pos), 
+                        daemon=True
+                    ).start()
                     
                     tried_words = []
-                    time.sleep(2.0)
+                    time.sleep(1.0)
+                    continue
+                elif status != "playing":
+                    # Đợi thêm một chút để đáp án kịp hiện ra (Đặc biệt quan trọng khi đối thủ thắng)
+                    if status == "enemy_correct":
+                        time.sleep(1.2)
+                        # Thử bắt lại đáp án một lần nữa
+                        data_retry = browser.read_game_data()
+                        final_answer = data_retry.get("revealedAnswer")
+                    
+                    tried_words = []
+                    time.sleep(0.5)
                     continue
 
-            # 2. GIẢI CÂU ĐỐ (Log chi tiết để hỗ trợ làm bài)
+            # 3. GIẢI CÂU ĐỐ (Chỉ thực hiện khi game ĐANG CHƠI)
+            if status != "playing":
+                # Nếu không phải trạng thái chơi, bỏ qua toàn bộ phần giải đố bên dưới
+                time.sleep(0.5)
+                continue
+
             if letter_count > 0:
                 if round_id != last_round_id:
                     tried_words, last_round_id, last_hints_logged, last_pos_logged, last_solve_input_key, last_submit_time, hints_when_submitted, last_example_en, current_hint_fails, status_logged = [], round_id, "", "", None, 0.0, "", example_en_now, 0, False
@@ -205,7 +232,6 @@ def auto_solve_loop(config):
                     print(f"  {Fore.CYAN}├ Đề (ô): {Style.RESET_ALL}{slots_line} (Structure: {ws_list})")
                     print(f"  {Fore.CYAN}├ Nghĩa: {Fore.WHITE}{translation or 'Nghĩa ẩn'}")
                     print(f"  {Fore.CYAN}├ Giải thích: {Fore.WHITE}{hint_vi_now or 'N/A'}")
-                    print(f"  {Fore.CYAN}├ Ví dụ VN: {Fore.WHITE}{example_vi_now or 'N/A'}")
                     print(f"  {Fore.CYAN}├ Ví dụ EN: {Fore.WHITE}\"{example_en_now}\"")
                     print(f"  {Fore.CYAN}└ Loại từ: {Fore.YELLOW}{pos_tag.upper()}")
 
@@ -218,9 +244,9 @@ def auto_solve_loop(config):
                 
                 # Logic delay: nếu hints không đổi (đoán sai), kiểm tra số lần sai để tăng delay
                 if last_submit_time and hints_now == hints_when_submitted:
-                    delay = 3 if current_hint_fails >= 2 else 2
+                    delay = 5.0 if current_hint_fails >= 2 else 3.0
                     if (time.perf_counter() - last_submit_time) < delay:
-                        time.sleep(0.1)
+                        time.sleep(0.2)
                         continue
                     else:
                         # Quá thời gian mà hint không đổi -> Xác nhận đoán sai lần này
@@ -228,7 +254,7 @@ def auto_solve_loop(config):
                         last_submit_time = 0.0 # Reset để cho phép lượt đoán tiếp theo
                 
                 if solve_key == last_solve_input_key:
-                    time.sleep(0.05)
+                    time.sleep(0.02) # Phản hồi nhanh hơn
                     continue
 
                 t0 = time.perf_counter()
@@ -236,6 +262,7 @@ def auto_solve_loop(config):
                     data["tried_words"] = tried_words 
                     answer = solve(data, config.get("model"), threshold=config.get("confidence_threshold", 0.6))
                     if not answer:
+                        last_solve_input_key = solve_key
                         time.sleep(0.1)
                         continue
                     
@@ -244,20 +271,24 @@ def auto_solve_loop(config):
                     _log_to_file(msg)
                     session_stats["attempts"] += 1
                     last_solve_input_key = solve_key
+                    answer = answer.lower()
+                    if "-" in answer and ws_list and len(ws_list) > 1:
+                        answer = answer.replace("-", " ")
+                    
                     if answer not in tried_words: tried_words.append(answer)
                     
-                    # Giao dien nhap lieu
-                    browser.focus_input(config.get("input_selector", "input[type='text']"))
+                    browser.focus_input("input")
                     browser.clear_input()
+                    time.sleep(0.02) # Chờ cực ngắn
                     browser.type_text(answer)
                     browser.press_enter()
                     last_submit_time, hints_when_submitted = time.perf_counter(), hints_now
-                    time.sleep(0.6)
+                    time.sleep(0.1) # Nghỉ cực ngắn sau khi submit
                 except Exception as ai_err:
                     err(f"AI Error: {str(ai_err)}")
-                    time.sleep(1)
+                    time.sleep(0.5)
             else:
-                time.sleep(0.2)
+                time.sleep(0.05)
         except Exception as e:
             err(f"Loop Error: {str(e)}")
             time.sleep(1)

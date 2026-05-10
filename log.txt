@@ -559,3 +559,2943 @@
   [OK] Bạn đã đoán đúng
   [GUESS] Đã đoán: FADE
   [OK] Bạn đã đoán đúng
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: CHAIN
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: DISCOURAGING
+  [GUESS] Đã đoán: DISENCHANTED
+  [GUESS] Đã đoán: DISAPPOINTED
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: ECHO
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: CLING
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: RESOLVE
+  [GUESS] Đã đoán: ADDRESS
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: MUSIC
+  [GUESS] Đã đoán: SOLID
+  [GUESS] Đã đoán: THROW
+  [GUESS] Đã đoán: WATER
+  [GUESS] Đã đoán: FLOUR
+  [GUESS] Đã đoán: FLOAT
+  [GUESS] Đã đoán: FLOOD
+  [GUESS] Đã đoán: FIELD
+  [GUESS] Đã đoán: FLUID
+  [OK] Bạn đã đoán đúng
+  [TIMEOUT] Hết giờ
+  [GUESS] Đã đoán: DECREASE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: LOVE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: DEPOSIT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: EXCLUSIVE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: SWITCH
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: WINNER
+  [OK] Bạn đã đoán đúng
+  [OK] Bạn đã đoán đúng
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: PARKING
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: HABITAT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: WOOD
+  [!] Đối thủ đã đoán đúng
+  [GUESS] Đã đoán: EVENTUALITY
+  [GUESS] Đã đoán: POSSIBILITY
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: MAKE
+  [GUESS] Đã đoán: NAIL
+  [!] Đối thủ đã đoán đúng
+  [GUESS] Đã đoán: WORKING
+  [OK] Bạn đã đoán đúng
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: CYCLE
+  [GUESS] Đã đoán: WHEEL
+  [GUESS] Đã đoán: DRIVE
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   11
+  Đúng:      5  (45.5%)
+  Đã học:    4 từ mới
+  DB size:   53970
+==================================================
+  [OK] AUTO MODE: ON.
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: POTENTIAL
+  [GUESS] Đã đoán: INFLUENCE
+  [GUESS] Đã đoán: INTENSITY
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: SHOT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: MILITARY
+  [GUESS] Đã đoán: PRESENCE
+  [GUESS] Đã đoán: INCIDENT
+  [GUESS] Đã đoán: INVASION
+  [OK] Bạn đã đoán đúng
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   8
+  Đúng:      4  (50.0%)
+  Đã học:    3 từ mới
+  DB size:   53970
+==================================================
+  [GUESS] Đã đoán: SECURE
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: CHURCH
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: SURVEY
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   11
+  Đúng:      5  (45.5%)
+  Đã học:    4 từ mới
+  DB size:   53970
+==================================================
+  [GUESS] Đã đoán: PLEASE
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: WORRIED
+  [GUESS] Đã đoán: NERVOUS
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: EMOTIONAL
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: PRODUCE
+  [GUESS] Đã đoán: PRODUCT
+  [GUESS] Đã đoán: LOGGING
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: THIN
+  [GUESS] Đã đoán: DISH
+  [GUESS] Đã đoán: DUST
+  [GUESS] Đã đoán: WASH
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: EMPLOYEE
+  [GUESS] Đã đoán: ENTRANCE
+  [GUESS] Đã đoán: INTEREST
+  [GUESS] Đã đoán: INVESTOR
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: ENABLE
+  [GUESS] Đã đoán: REPEAT
+  [GUESS] Đã đoán: REMAIN
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: TWO-FISTED
+  [GUESS] Đã đoán: AGGRESSIVE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: PARTICULAR
+  [GUESS] Đã đoán: PHOTOGRAPH
+  [GUESS] Đã đoán: PHENOMENON
+  [GUESS] Đã đoán: POLITICIAN
+  [GUESS] Đã đoán: PEDESTRIAN
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: FEEDSTOCK
+  [GUESS] Đã đoán: CONSTRUCT
+  [GUESS] Đã đoán: LANDSCAPE
+  [GUESS] Đã đoán: LIFESTYLE
+  [GUESS] Đã đoán: LIMESTONE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: QUALIFICATION
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: BLONDE
+  [GUESS] Đã đoán: STATUS
+  [GUESS] Đã đoán: GUITAR
+  [GUESS] Đã đoán: GARDEN
+  [GUESS] Đã đoán: GINGER
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: HUNT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: VOLUNTEER
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: GAME
+  [GUESS] Đã đoán: GOAL
+  [GUESS] Đã đoán: BEAT
+  [GUESS] Đã đoán: TEAM
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: STRAINED
+  [GUESS] Đã đoán: TROUBLED
+  [GUESS] Đã đoán: STRESSED
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: COMPUTER
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: ILL
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: THEME
+  [GUESS] Đã đoán: TOPIC
+  [GUESS] Đã đoán: OFFER
+  [GUESS] Đã đoán: UNCLE
+  [GUESS] Đã đoán: USAGE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: ENABLE
+  [GUESS] Đã đoán: BUDGET
+  [GUESS] Đã đoán: AFFORD
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: COOKING
+  [GUESS] Đã đoán: SHELTER
+  [GUESS] Đã đoán: BALANCE
+  [GUESS] Đã đoán: BARRIER
+  [GUESS] Đã đoán: BICYCLE
+  [GUESS] Đã đoán: BANDAGE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: GYM
+  [GUESS] Đã đoán: PIN
+  [GUESS] Đã đoán: FIT
+  [GUESS] Đã đoán: BIT
+  [GUESS] Đã đoán: LEG
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: PERFORMANCE
+  [GUESS] Đã đoán: PREPARATION
+  [GUESS] Đã đoán: PROGRAMMING
+  [OK] Bạn đã đoán đúng
+  [TIMEOUT] Hết giờ
+  [GUESS] Đã đoán: VULNERABLE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: TREND
+  [GUESS] Đã đoán: STYLE
+  [GUESS] Đã đoán: ENTRY
+  [GUESS] Đã đoán: VENUE
+  [GUESS] Đã đoán: VOICE
+  [GUESS] Đã đoán: VALUE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: WORK
+  [GUESS] Đã đoán: WAGE
+  [GUESS] Đã đoán: GIFT
+  [GUESS] Đã đoán: FIRM
+  [GUESS] Đã đoán: FOLD
+  [GUESS] Đã đoán: FAST
+  [GUESS] Đã đoán: FOOT
+  [TIMEOUT] Hết giờ
+  [GUESS] Đã đoán: PERFORMANCE
+  [GUESS] Đã đoán: BUSINESSMAN
+  [GUESS] Đã đoán: BUREAUCRACY
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: OBJECT
+  [GUESS] Đã đoán: BOTHER
+  [GUESS] Đã đoán: HOCKEY
+  [GUESS] Đã đoán: HEALTH
+  [GUESS] Đã đoán: HATRED
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: PRE-EMINENT
+  [GUESS] Đã đoán: OVERARCHING
+  [GUESS] Đã đoán: OVERZEALOUS
+  [GUESS] Đã đoán: OVERHANGING
+  [TIMEOUT] Hết giờ
+  [GUESS] Đã đoán: PHOBIA
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: UPSTAIRS
+  [GUESS] Đã đoán: RIDGETOP
+  [GUESS] Đã đoán: MOUNTAIN
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: TUNE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: ENABLE
+  [GUESS] Đã đoán: REMAIN
+  [GUESS] Đã đoán: APPEAR
+  [GUESS] Đã đoán: ARREST
+  [GUESS] Đã đoán: ACCEPT
+  [GUESS] Đã đoán: ABSENT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: HOMEWORK
+  [OK] Bạn đã đoán đúng
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: BET
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: EFFECTUAL
+  [GUESS] Đã đoán: EFFICIENT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: SEQUENCE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: POSITIVE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: CHALK
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: TALL
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: FOOLPROOF
+  [GUESS] Đã đoán: ALUMINIUM
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: MAKE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: FIELD
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: SOFTWARE
+  [GUESS] Đã đoán: STRATEGY
+  [GUESS] Đã đoán: SYNOPSIS
+  [GUESS] Đã đoán: SCISSORS
+  [GUESS] Đã đoán: GADGETRY
+  [TIMEOUT] Hết giờ
+  [OK] Đã kết nối trình duyệt.
+  [OK] Đã kết nối trình duyệt.
+  [OK] Đã kết nối trình duyệt.
+  [GUESS] Đã đoán: MYSELF
+  [OK] Bạn đã đoán đúng
+  [X] AI Error: cannot access local variable 'example_vi' where it is not associated with a value
+  [X] AI Error: cannot access local variable 'example_vi' where it is not associated with a value
+  [X] AI Error: cannot access local variable 'example_vi' where it is not associated with a value
+  [X] AI Error: cannot access local variable 'example_vi' where it is not associated with a value
+  [X] AI Error: cannot access local variable 'example_vi' where it is not associated with a value
+  [X] AI Error: cannot access local variable 'example_vi' where it is not associated with a value
+  [X] AI Error: cannot access local variable 'example_vi' where it is not associated with a value
+  [X] AI Error: cannot access local variable 'example_vi' where it is not associated with a value
+  [X] AI Error: cannot access local variable 'example_vi' where it is not associated with a value
+  [X] AI Error: cannot access local variable 'example_vi' where it is not associated with a value
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   17
+  Đúng:      10  (58.8%)
+  Đã học:    10 từ mới
+  DB size:   53970
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [X] AI Error: cannot access local variable 'example_vi' where it is not associated with a value
+  [X] AI Error: cannot access local variable 'example_vi' where it is not associated with a value
+  [X] AI Error: cannot access local variable 'example_vi' where it is not associated with a value
+  [X] AI Error: cannot access local variable 'example_vi' where it is not associated with a value
+  [OK] AUTO MODE: ON.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   0
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53970
+==================================================
+  [X] AI Error: cannot access local variable 'example_vi' where it is not associated with a value
+  [X] AI Error: cannot access local variable 'example_vi' where it is not associated with a value
+  [X] AI Error: cannot access local variable 'example_vi' where it is not associated with a value
+  [X] AI Error: cannot access local variable 'example_vi' where it is not associated with a value
+  [X] AI Error: cannot access local variable 'example_vi' where it is not associated with a value
+  [X] AI Error: cannot access local variable 'example_vi' where it is not associated with a value
+  [X] AI Error: cannot access local variable 'example_vi' where it is not associated with a value
+  [X] AI Error: cannot access local variable 'example_vi' where it is not associated with a value
+  [X] AI Error: cannot access local variable 'example_vi' where it is not associated with a value
+  [X] AI Error: cannot access local variable 'example_vi' where it is not associated with a value
+  [TIMEOUT] Hết giờ
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [OK] Đã kết nối trình duyệt.
+  [GUESS] Đã đoán: DELEGATE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: SOMETHING
+  [GUESS] Đã đoán: GRADUALLY
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: YIELD
+  [OK] Bạn đã đoán đúng
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: SIDE
+  [GUESS] Đã đoán: TAIL
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: THINGY
+  [GUESS] Đã đoán: OBJECT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: BRANCH
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: PHOTOGRAPH
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: EXTRA
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: BALL
+  [OK] Bạn đã đoán đúng
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [!] Đối thủ đã đoán đúng
+  [GUESS] Đã đoán: WAY
+  [GUESS] Đã đoán: DRY
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   2
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53970
+==================================================
+  [GUESS] Đã đoán: LOT
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: SCIENTIFIC
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: ORGANIZATION
+  [GUESS] Đã đoán: ENTREPRENEUR
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: IMPRESSED
+  [GUESS] Đã đoán: MEMORABLE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: MOTIVATE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: FREE-FALL
+  [GUESS] Đã đoán: STEP-DOWN
+  [GUESS] Đã đoán: SELF-TEST
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   9
+  Đúng:      4  (44.4%)
+  Đã học:    4 từ mới
+  DB size:   53970
+==================================================
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: STEP-DOWN
+  [TIMEOUT] Hết giờ
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   10
+  Đúng:      4  (40.0%)
+  Đã học:    4 từ mới
+  DB size:   53970
+==================================================
+  [GUESS] Đã đoán: REVITALIZED
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: REVITALIZED
+  [GUESS] Đã đoán: RESTORATIVE
+  [OK] Bạn đã đoán đúng
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   13
+  Đúng:      5  (38.5%)
+  Đã học:    5 từ mới
+  DB size:   53970
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: NATURAL-RESOURCE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: FAIRLY
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: TRACK
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: EDITION
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: GOVERNING
+  [GUESS] Đã đoán: EXECUTIVE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: DIVERSITY
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: BOSOM
+  [!] Đối thủ đã đoán đúng
+  [GUESS] Đã đoán: CONSTRUCTIVE
+  [OK] Bạn đã đoán đúng
+  [!] Đối thủ đã đoán đúng
+  [GUESS] Đã đoán: TRANSPORT
+  [OK] Bạn đã đoán đúng
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   10
+  Đúng:      8  (80.0%)
+  Đã học:    8 từ mới
+  DB size:   53971
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: GROUND
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: SCARED
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: BREATHTAKING
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: HUNGER
+  [GUESS] Đã đoán: SCAPULAR
+  [GUESS] Đã đoán: SCAPULAR
+  [GUESS] Đã đoán: POWERFUL
+  [GUESS] Đã đoán: STRONGLY
+  [GUESS] Đã đoán: SIGN
+  [!] Đối thủ đã đoán đúng
+  [GUESS] Đã đoán: LIKELY
+  [!] Đối thủ đã đoán đúng
+  [GUESS] Đã đoán: PAPIER-MACHE
+  [GUESS] Đã đoán: SMARTY-PANTS
+  [GUESS] Đã đoán: SMARTY-PANTS
+  [GUESS] Đã đoán: PAPIER-MACHE
+  [!] Đối thủ đã đoán đúng
+  [GUESS] Đã đoán: EXAMINE
+  [GUESS] Đã đoán: INSPECT
+  [OK] Bạn đã đoán đúng
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   16
+  Đúng:      4  (25.0%)
+  Đã học:    4 từ mới
+  DB size:   53971
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [X] AI Error: name 'Fore' is not defined
+  [X] AI Error: name 'Fore' is not defined
+  [X] AI Error: name 'Fore' is not defined
+  [X] AI Error: name 'Fore' is not defined
+  [X] AI Error: name 'Fore' is not defined
+  [X] AI Error: name 'Fore' is not defined
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   0
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53971
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: VAST
+  [OK] Bạn đã đoán đúng
+  [X] Loop Error: name 'Back' is not defined
+  [GUESS] Đã đoán: PACE
+  [OK] Bạn đã đoán đúng
+  [X] Loop Error: name 'Back' is not defined
+  [GUESS] Đã đoán: DOCUMENT
+  [GUESS] Đã đoán: WEAKNESS
+  [GUESS] Đã đoán: WHODUNIT
+  [GUESS] Đã đoán: WAYPOINT
+  [GUESS] Đã đoán: MATERIAL
+  [GUESS] Đã đoán: COMPUTER
+  [TIMEOUT] Hết giờ
+  [GUESS] Đã đoán: EIGHTY
+  [OK] Bạn đã đoán đúng
+  [X] Loop Error: name 'Back' is not defined
+  [GUESS] Đã đoán: CEILING
+  [OK] Bạn đã đoán đúng
+  [X] Loop Error: name 'Back' is not defined
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   10
+  Đúng:      4  (40.0%)
+  Đã học:    0 từ mới
+  DB size:   53971
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: RACK
+  [GUESS] Đã đoán: HURT
+  [GUESS] Đã đoán: PAIN
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: CRIMINAL
+  [GUESS] Đã đoán: IMPRISON
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: ELIMINATE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: DISTINCTIVE
+  [GUESS] Đã đoán: LUBRICATION
+  [GUESS] Đã đoán: LITHOSPHERE
+  [GUESS] Đã đoán: LEATHERETTE
+  [GUESS] Đã đoán: IMPRIMATURA
+  [GUESS] Đã đoán: SUPERNATANT
+  [GUESS] Đã đoán: MEMORABILIA
+  [TIMEOUT] Hết giờ
+  [GUESS] Đã đoán: PRINCIPAL
+  [OK] Bạn đã đoán đúng
+  [TIMEOUT] Hết giờ
+  [GUESS] Đã đoán: HUMAN
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: EMBODY
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: ACCUSED
+  [OK] Bạn đã đoán đúng
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: STRETCH
+  [GUESS] Đã đoán: DROUGHT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: CONSORT
+  [GUESS] Đã đoán: WORRIED
+  [GUESS] Đã đoán: WRITTEN
+  [GUESS] Đã đoán: WIDOWED
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: COMPARE
+  [OK] Bạn đã đoán đúng
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: WAREHOUSE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: BULIMIA
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: STEWARD
+  [GUESS] Đã đoán: MANAGER
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: INDUSTRY
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: OFFENSIVE
+  [GUESS] Đã đoán: GUERRILLA
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: CRASH
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: FISTFUL
+  [GUESS] Đã đoán: HANDFUL
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: TRAVEL
+  [GUESS] Đã đoán: VOYAGE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: HALF
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: CRAFT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: SUBSTANTIALLY
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: DOCTOR
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: CERTAIN
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: CRYSTAL
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: CRIMINAL
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: SOUVENIR
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: BUILDING
+  [GUESS] Đã đoán: FORTRESS
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: PRINCIPAL
+  [GUESS] Đã đoán: ASSISTANT
+  [GUESS] Đã đoán: APPLICANT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: LEVEL
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: TENANT
+  [OK] Bạn đã đoán đúng
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [OK] Đã kết nối trình duyệt.
+  [GUESS] Đã đoán: PLUNGE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: CRAFTING
+  [GUESS] Đã đoán: WORKROOM
+  [GUESS] Đã đoán: WORKSITE
+  [GUESS] Đã đoán: WORKSHOP
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: HIGH
+  [GUESS] Đã đoán: TALL
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: CREAM
+  [GUESS] Đã đoán: SNACK
+  [GUESS] Đã đoán: WHISK
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: DUG
+  [GUESS] Đã đoán: PUT
+  [GUESS] Đã đoán: DIG
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: POWDER
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: PAVED
+  [GUESS] Đã đoán: DIRTY
+  [GUESS] Đã đoán: TIGHT
+  [GUESS] Đã đoán: THICK
+  [GUESS] Đã đoán: TILED
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: ROUTINE
+  [GUESS] Đã đoán: HOLIDAY
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: LANDSCAPE
+  [GUESS] Đã đoán: INVENTORY
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: CLEANLINESS
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: COMPETENCE
+  [GUESS] Đã đoán: CAPABILITY
+  [GUESS] Đã đoán: CONFIDENCE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: OUTING
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: SOIL
+  [OK] Bạn đã đoán đúng
+  [TIMEOUT] Hết giờ
+  [GUESS] Đã đoán: PHONE-LINE
+  [GUESS] Đã đoán: PHONE-LINE
+  [GUESS] Đã đoán: PHONE-LINE
+  [GUESS] Đã đoán: PHONE-LINE
+  [TIMEOUT] Hết giờ
+  [GUESS] Đã đoán: EXPERT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: RELAXATION
+  [OK] Bạn đã đoán đúng
+  [TIMEOUT] Hết giờ
+  [GUESS] Đã đoán: PROCEDURE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: GESTICULATE
+  [GUESS] Đã đoán: RECIPROCATE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: STIMULATING
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: BUDGET
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: LANE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: DRESSING
+  [GUESS] Đã đoán: RAINCOAT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: PAST
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: BOTHER
+  [GUESS] Đã đoán: HARASS
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: COIN
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: SUM
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: DANCER
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: PRIMARILY
+  [OK] Bạn đã đoán đúng
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: RESPECT
+  [OK] Bạn đã đoán đúng
+  [TIMEOUT] Hết giờ
+  [GUESS] Đã đoán: ANNOYING
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: CONSEQUENTLY
+  [OK] Bạn đã đoán đúng
+  [TIMEOUT] Hết giờ
+  [GUESS] Đã đoán: FOREFRONT
+  [OK] Bạn đã đoán đúng
+  [TIMEOUT] Hết giờ
+  [GUESS] Đã đoán: DETERMINATION
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: COW
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: DISCUSSION
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: INDIRECT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: PASSWORD
+  [OK] Bạn đã đoán đúng
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: PENALTY
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: DIVERS
+  [GUESS] Đã đoán: VARIED
+  [OK] Bạn đã đoán đúng
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: EXPERIMENT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: RENOWNED
+  [OK] Bạn đã đoán đúng
+  [TIMEOUT] Hết giờ
+  [GUESS] Đã đoán: ADOPT
+  [OK] Bạn đã đoán đúng
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: BELONG
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: RUSTIC
+  [OK] Bạn đã đoán đúng
+  [!] Đối thủ đã đoán đúng
+  [GUESS] Đã đoán: TENNIS
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: COMPONENT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: NERVOUS
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: SPAWN
+  [GUESS] Đã đoán: CHILD
+  [GUESS] Đã đoán: TOOTH
+  [GUESS] Đã đoán: THREE
+  [!] Đối thủ đã đoán đúng
+  [!] Đối thủ đã đoán đúng
+  [GUESS] Đã đoán: BELLBOY
+  [GUESS] Đã đoán: TOURISM
+  [GUESS] Đã đoán: LUGGAGE
+  [OK] Bạn đã đoán đúng
+  [TIMEOUT] Hết giờ
+  [GUESS] Đã đoán: ATTEMPT
+  [OK] Bạn đã đoán đúng
+  [TIMEOUT] Hết giờ
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: LONG-TERM
+  [TIMEOUT] Hết giờ
+  [TIMEOUT] Hết giờ
+  [TIMEOUT] Hết giờ
+  [TIMEOUT] Hết giờ
+  [TIMEOUT] Hết giờ
+  [TIMEOUT] Hết giờ
+  [TIMEOUT] Hết giờ
+  [TIMEOUT] Hết giờ
+  [OK] Bạn đã đoán đúng
+  [OK] Bạn đã đoán đúng
+  [TIMEOUT] Hết giờ
+  [TIMEOUT] Hết giờ
+  [GUESS] Đã đoán: BALL
+  [GUESS] Đã đoán: GAME
+  [GUESS] Đã đoán: GOLF
+  [OK] Bạn đã đoán đúng
+  [TIMEOUT] Hết giờ
+  [GUESS] Đã đoán: ADMIT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: COMMISSIONER
+  [OK] Bạn đã đoán đúng
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: OFF
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: INTERVIEWER
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: COMMANDER
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: DISCRIMINATION
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: VACATION
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: EXECUTE
+  [GUESS] Đã đoán: ACHIEVE
+  [GUESS] Đã đoán: ENFORCE
+  [OK] Bạn đã đoán đúng
+  [!] Đối thủ đã đoán đúng
+  [GUESS] Đã đoán: CLEAR
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: WILDCAT
+  [GUESS] Đã đoán: BULBLET
+  [GUESS] Đã đoán: LEOPARD
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: RESPECT
+  [GUESS] Đã đoán: PROTEST
+  [GUESS] Đã đoán: THOUGHT
+  [GUESS] Đã đoán: THERAPY
+  [GUESS] Đã đoán: TADPOLE
+  [GUESS] Đã đoán: TERPENE
+  [GUESS] Đã đoán: TRIBUTE
+  [OK] Bạn đã đoán đúng
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [OK] Đã kết nối trình duyệt.
+  [GUESS] Đã đoán: PROFESSION
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: ACADEMIC
+  [GUESS] Đã đoán: INTERNAL
+  [GUESS] Đã đoán: INNOCENT
+  [GUESS] Đã đoán: IMPOTENT
+  [TIMEOUT] Hết giờ
+  [GUESS] Đã đoán: ASHAMED
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: FACILITATE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: ETHICAL
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: STRUCTURALIST
+  [GUESS] Đã đoán: ARCHITECTURAL
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: ENCOURAGEMENT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: CONFIRMATION
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: WET
+  [OK] Bạn đã đoán đúng
+  [TIMEOUT] Hết giờ
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: OUTSTANDING
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: COLLECTIBLE
+  [GUESS] Đã đoán: COMPARTMENT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: LEVEL
+  [GUESS] Đã đoán: TRACK
+  [GUESS] Đã đoán: SCALE
+  [GUESS] Đã đoán: SCORE
+  [GUESS] Đã đoán: STONE
+  [GUESS] Đã đoán: SPORT
+  [!] Đối thủ đã đoán đúng
+  [GUESS] Đã đoán: TEAR
+  [GUESS] Đã đoán: HIRE
+  [GUESS] Đã đoán: GOER
+  [GUESS] Đã đoán: WEEK
+  [GUESS] Đã đoán: WOOL
+  [GUESS] Đã đoán: WILL
+  [GUESS] Đã đoán: WALL
+  [TIMEOUT] Hết giờ
+  [GUESS] Đã đoán: USER
+  [GUESS] Đã đoán: UNIT
+  [GUESS] Đã đoán: FORM
+  [GUESS] Đã đoán: WORD
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: OUTCOME
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: HEAT
+  [GUESS] Đã đoán: USER
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: RECONSTRUCTION
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: ADDITION
+  [GUESS] Đã đoán: INSPIRER
+  [GUESS] Đã đoán: INTERNET
+  [GUESS] Đã đoán: INCISION
+  [GUESS] Đã đoán: INFUSION
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: CONCEDE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: MOOD
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: SOMEONE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: COMPETENTLY
+  [GUESS] Đã đoán: PROFICIENCY
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: FOODSTUFF
+  [GUESS] Đã đoán: NUTRITION
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: PRE-SEASON
+  [GUESS] Đã đoán: DRY-SEASON
+  [GUESS] Đã đoán: LOW-RELIEF
+  [GUESS] Đã đoán: LAW-SCHOOL
+  [TIMEOUT] Hết giờ
+  [GUESS] Đã đoán: DUG
+  [GUESS] Đã đoán: DIG
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: SCIENTIFIC
+  [GUESS] Đã đoán: UNDERLYING
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: ANNOUNCEMENT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: YELLOW
+  [GUESS] Đã đoán: LIKELY
+  [GUESS] Đã đoán: FROZEN
+  [GUESS] Đã đoán: FORMAL
+  [GUESS] Đã đoán: FRIZZY
+  [GUESS] Đã đoán: FREAKY
+  [GUESS] Đã đoán: FROSTY
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: HOUSEHOLD
+  [GUESS] Đã đoán: GODMOTHER
+  [GUESS] Đã đoán: GODPARENT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: MOTIVATING
+  [GUESS] Đã đoán: MOTIVATION
+  [!] Đối thủ đã đoán đúng
+  [GUESS] Đã đoán: TOUCHDOWN
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: PROFESSIONAL
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: AVAILABLE
+  [GUESS] Đã đoán: DESPERATE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: WORSHIP
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: CRAFT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: HONESTY
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: BANK
+  [GUESS] Đã đoán: MOON
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: INSPECT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: TRIO
+  [OK] Bạn đã đoán đúng
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [X] AI Error: name 'has_vi' is not defined
+  [X] AI Error: name 'has_vi' is not defined
+  [X] AI Error: name 'has_vi' is not defined
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   0
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53971
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: RELATION
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: ATTEMPT
+  [GUESS] Đã đoán: OUTCOME
+  [GUESS] Đã đoán: COTTAGE
+  [GUESS] Đã đoán: CAMPING
+  [GUESS] Đã đoán: COOKING
+  [!] Đối thủ đã đoán đúng
+  [GUESS] Đã đoán: POWDER
+  [GUESS] Đã đoán: RECIPE
+  [GUESS] Đã đoán: BRANCH
+  [GUESS] Đã đoán: BUDGET
+  [GUESS] Đã đoán: BULLET
+  [GUESS] Đã đoán: BREAST
+  [GUESS] Đã đoán: BUCKET
+  [GUESS] Đã đoán: BASKET
+  [TIMEOUT] Hết giờ
+  [GUESS] Đã đoán: SCIENTIFIC
+  [GUESS] Đã đoán: BIPARTISAN
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: EMISSION
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: VARY
+  [OK] Bạn đã đoán đúng
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: DRIVING
+  [GUESS] Đã đoán: TRAFFIC
+  [GUESS] Đã đoán: TRAINER
+  [GUESS] Đã đoán: THERAPY
+  [GUESS] Đã đoán: TROLLEY
+  [OK] Bạn đã đoán đúng
+  [X] Loop Error: cannot access local variable 'raw_revealed' where it is not associated with a value
+  [X] Loop Error: cannot access local variable 'raw_revealed' where it is not associated with a value
+  [X] Loop Error: cannot access local variable 'raw_revealed' where it is not associated with a value
+  [GUESS] Đã đoán: ILL
+  [OK] Bạn đã đoán đúng
+  [X] Loop Error: cannot access local variable 'raw_revealed' where it is not associated with a value
+  [X] Loop Error: cannot access local variable 'raw_revealed' where it is not associated with a value
+  [X] Loop Error: cannot access local variable 'raw_revealed' where it is not associated with a value
+  [GUESS] Đã đoán: THING
+  [GUESS] Đã đoán: GIZMO
+  [GUESS] Đã đoán: STUFF
+  [OK] Bạn đã đoán đúng
+  [X] Loop Error: cannot access local variable 'raw_revealed' where it is not associated with a value
+  [X] Loop Error: cannot access local variable 'raw_revealed' where it is not associated with a value
+  [X] Loop Error: cannot access local variable 'raw_revealed' where it is not associated with a value
+  [GUESS] Đã đoán: DEBATE
+  [GUESS] Đã đoán: BUDGET
+  [GUESS] Đã đoán: AGENDA
+  [OK] Bạn đã đoán đúng
+  [X] Loop Error: cannot access local variable 'raw_revealed' where it is not associated with a value
+  [X] Loop Error: cannot access local variable 'raw_revealed' where it is not associated with a value
+  [X] Loop Error: cannot access local variable 'raw_revealed' where it is not associated with a value
+  [!] Đối thủ đã đoán đúng
+  [X] Loop Error: cannot access local variable 'raw_revealed' where it is not associated with a value
+  [X] Loop Error: cannot access local variable 'raw_revealed' where it is not associated with a value
+  [X] Loop Error: cannot access local variable 'raw_revealed' where it is not associated with a value
+  [GUESS] Đã đoán: DRAMA
+  [OK] Bạn đã đoán đúng
+  [X] Loop Error: cannot access local variable 'raw_revealed' where it is not associated with a value
+  [X] Loop Error: cannot access local variable 'raw_revealed' where it is not associated with a value
+  [X] Loop Error: cannot access local variable 'raw_revealed' where it is not associated with a value
+  [GUESS] Đã đoán: DECIDE
+  [GUESS] Đã đoán: SOLVED
+  [GUESS] Đã đoán: TRYING
+  [GUESS] Đã đoán: TARGET
+  [GUESS] Đã đoán: TONGUE
+  [GUESS] Đã đoán: TODDLE
+  [GUESS] Đã đoán: TACKLE
+  [OK] Bạn đã đoán đúng
+  [X] Loop Error: cannot access local variable 'raw_revealed' where it is not associated with a value
+  [X] Loop Error: cannot access local variable 'raw_revealed' where it is not associated with a value
+  [X] Loop Error: cannot access local variable 'raw_revealed' where it is not associated with a value
+  [GUESS] Đã đoán: DIG
+  [GUESS] Đã đoán: BOX
+  [GUESS] Đã đoán: BAG
+  [GUESS] Đã đoán: CUP
+  [GUESS] Đã đoán: BUS
+  [TIMEOUT] Hết giờ
+  [X] Loop Error: cannot access local variable 'raw_revealed' where it is not associated with a value
+  [X] Loop Error: cannot access local variable 'raw_revealed' where it is not associated with a value
+  [X] Loop Error: cannot access local variable 'raw_revealed' where it is not associated with a value
+  [GUESS] Đã đoán: VERIFY
+  [OK] Bạn đã đoán đúng
+  [X] Loop Error: cannot access local variable 'raw_revealed' where it is not associated with a value
+  [X] Loop Error: cannot access local variable 'raw_revealed' where it is not associated with a value
+  [X] Loop Error: cannot access local variable 'raw_revealed' where it is not associated with a value
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   26
+  Đúng:      7  (26.9%)
+  Đã học:    7 từ mới
+  DB size:   53971
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: HOBBY
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: TRANSPORT
+  [GUESS] Đã đoán: POLLUTION
+  [GUESS] Đã đoán: PERSONNEL
+  [OK] Bạn đã đoán đúng
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   4
+  Đúng:      2  (50.0%)
+  Đã học:    2 từ mới
+  DB size:   53971
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: UNPACK
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: ASSESSMENT
+  [GUESS] Đã đoán: EVALUATION
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: AREA
+  [GUESS] Đã đoán: ZONE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: OBJECT
+  [GUESS] Đã đoán: AFFORD
+  [GUESS] Đã đoán: REGARD
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: DEPOSIT
+  [!] Đối thủ đã đoán đúng
+  [GUESS] Đã đoán: NIX
+  [GUESS] Đã đoán: BET
+  [!] Đối thủ đã đoán đúng
+  [GUESS] Đã đoán: SPRAWL
+  [GUESS] Đã đoán: SPREAD
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: TRANSVERSE
+  [GUESS] Đã đoán: HORIZONTAL
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: TRANSPORT
+  [!] Đối thủ đã đoán đúng
+  [GUESS] Đã đoán: HUNDRED-YEAR-OLD
+  [TIMEOUT] Hết giờ
+  [GUESS] Đã đoán: HEADACHE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: EXPERIMENT
+  [GUESS] Đã đoán: RESEARCHER
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: THUNDER
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: IMMEDIATELY
+  [OK] Bạn đã đoán đúng
+  [TIMEOUT] Hết giờ
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: FIRM
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: EXPECTATION
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: HABITAT
+  [!] Đối thủ đã đoán đúng
+  [GUESS] Đã đoán: SOMEWHERE
+  [GUESS] Đã đoán: ELSEWHERE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: POSITIVE
+  [GUESS] Đã đoán: DOMESTIC
+  [GUESS] Đã đoán: DOMINANT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: ROUGH
+  [GUESS] Đã đoán: ROCKY
+  [GUESS] Đã đoán: TOUGH
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: ENCOURAGEMENT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: RELATION
+  [GUESS] Đã đoán: VACATION
+  [GUESS] Đã đoán: VILLAGER
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: BREAK
+  [OK] Bạn đã đoán đúng
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: SOIL
+  [GUESS] Đã đoán: KICK
+  [GUESS] Đã đoán: ROCK
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: SOUVENIR
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: MARKETEER
+  [GUESS] Đã đoán: MARKETING
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: DELIGHT
+  [GUESS] Đã đoán: ADAPTED
+  [GUESS] Đã đoán: EXCITED
+  [!] Đối thủ đã đoán đúng
+  [GUESS] Đã đoán: SWIM
+  [GUESS] Đã đoán: LANE
+  [!] Đối thủ đã đoán đúng
+  [GUESS] Đã đoán: REGARD
+  [GUESS] Đã đoán: RITUAL
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: SCHEMATIC
+  [GUESS] Đã đoán: ATTRIBUTE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: DEFENDABLE
+  [GUESS] Đã đoán: PROTECTIVE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: EAST
+  [OK] Bạn đã đoán đúng
+  [OK] Bạn đã đoán đúng
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: PENALTY
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: HOSTILITY
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: CREATOR
+  [!] Đối thủ đã đoán đúng
+  [GUESS] Đã đoán: EXPERIMENT
+  [GUESS] Đã đoán: INGREDIENT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: VOTING
+  [GUESS] Đã đoán: BALLOT
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: CAPABILITY
+  [GUESS] Đã đoán: CONFIDENCE
+  [GUESS] Đã đoán: COMPETENCE
+  [OK] Bạn đã đoán đúng
+  [GUESS] Đã đoán: WEARY
+  [GUESS] Đã đoán: TAXED
+  [GUESS] Đã đoán: TIRED
+  [OK] Bạn đã đoán đúng
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: INCONSEQUENTIAL
+  [GUESS] Đã đoán: NONCONTRIBUTORY
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: NOT BREAK THE BANK
+  [GUESS] Đã đoán: BOTTLE
+  [GUESS] Đã đoán: INTAKE
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: LOOK TO
+  [GUESS] Đã đoán: PROBATIONER
+  [GUESS] Đã đoán: ADOLESCENCE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ADOLESCENCE
+  [GUESS] Đã đoán: ADMIT
+  [GUESS] Đã đoán: CAUSE
+  [GUESS] Đã đoán: TEMPT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: TEMPT
+  [GUESS] Đã đoán: MOBILE
+  [GUESS] Đã đoán: ENGINE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ENGINE
+  [GUESS] Đã đoán: COVER
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: COVER
+  [GUESS] Đã đoán: ASSIGNMENT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ASSIGNMENT
+  [GUESS] Đã đoán: EXPRESS
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: EXPRESS
+  [GUESS] Đã đoán: VOLUNTEER
+  [GUESS] Đã đoán: SUMMARIZE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SUMMARIZE
+  [GUESS] Đã đoán: ALLEGRO
+  [GUESS] Đã đoán: DARTING
+  [GUESS] Đã đoán: JOURNAL
+  [TIMEOUT] Hết giờ
+  └─ Đáp án của câu hỏi là: JOT DOWN
+  [GUESS] Đã đoán: WORSE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: WORSE
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: INTERPRETATION
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: INTERPRETATION
+  [GUESS] Đã đoán: ALTERNATIVE
+  [GUESS] Đã đoán: REPLACEMENT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: REPLACEMENT
+  [GUESS] Đã đoán: FLOOD
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: FLOOD
+  [GUESS] Đã đoán: PROCEDURE
+  [GUESS] Đã đoán: MAGNITUDE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: MAGNITUDE
+  [GUESS] Đã đoán: CURRENTLY
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CURRENTLY
+  [GUESS] Đã đoán: SECTION
+  [GUESS] Đã đoán: PORTION
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PORTION
+  [GUESS] Đã đoán: AVAILABLE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: AVAILABLE
+  [TIMEOUT] Hết giờ
+  └─ Đáp án của câu hỏi là: BEGINNING IS THE DIFFICULTY
+  [GUESS] Đã đoán: TRACK
+  [GUESS] Đã đoán: LEVEL
+  [GUESS] Đã đoán: TASTE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: TASTE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: BRUSH HAIR
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: MANUAL
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: MANUAL
+  [GUESS] Đã đoán: FOOT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: FOOT
+  [GUESS] Đã đoán: SEQUENCE
+  [GUESS] Đã đoán: SOUVENIR
+  [GUESS] Đã đoán: SIMPLIFY
+  [GUESS] Đã đoán: STRATIFY
+  [!] Đối thủ đã đoán đúng
+  [GUESS] Đã đoán: MAGNITUDE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: MAGNITUDE
+  [GUESS] Đã đoán: PUSHING
+  [GUESS] Đã đoán: PROMOTE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PROMOTE
+  [GUESS] Đã đoán: TRADECRAFT
+  [GUESS] Đã đoán: PROFESSION
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PROFESSION
+  [GUESS] Đã đoán: ALLY
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: ALLY
+  [GUESS] Đã đoán: IMMEDIATELY
+  [GUESS] Đã đoán: IMMEDIATELY
+  [GUESS] Đã đoán: LILLIPUTIAN
+  [GUESS] Đã đoán: LESBIAN/GAY
+  [GUESS] Đã đoán: LEGISLATIVE
+  [TIMEOUT] Hết giờ
+  [GUESS] Đã đoán: RESTED
+  [OK] Đã kết nối trình duyệt.
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: T-SHIRT
+  [GUESS] Đã đoán: F-SHARP
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   2
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53974
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [OK] AUTO MODE: ON.
+  [X] Loop Error: cannot access local variable 'status_logged' where it is not associated with a value
+  [X] Loop Error: cannot access local variable 'status_logged' where it is not associated with a value
+  [GUESS] Đã đoán: B-FLAT
+  [GUESS] Đã đoán: B-FLAT
+  [GUESS] Đã đoán: E-ZINE
+  [GUESS] Đã đoán: E-ZINE
+  [GUESS] Đã đoán: E-BOOK
+  [GUESS] Đã đoán: E-BOOK
+  [!] AUTO MODE: OFF.
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   3
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53974
+==================================================
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   5
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53974
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [OK] AUTO MODE: ON.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: E-MAILED
+  [GUESS] Đã đoán: E-MAILED
+  [GUESS] Đã đoán: AFFORD
+  [!] Đối thủ đã đoán đúng
+  [OK] Bạn đã đoán đúng
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: AFFORD
+  └─ Đáp án của câu hỏi là: E MAILED
+  [GUESS] Đã đoán: B-FLAT
+  [GUESS] Đã đoán: BALL
+  [GUESS] Đã đoán: T-BILL
+  [GUESS] Đã đoán: ROLE
+  [OK] Bạn đã đoán đúng
+  [!] Đối thủ đã đoán đúng
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ROLE
+  [GUESS] Đã đoán: E-BOOK
+  [GUESS] Đã đoán: WIRE
+  [!] Đối thủ đã đoán đúng
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: WIRE
+  [GUESS] Đã đoán: E-BUSINESS
+  [GUESS] Đã đoán: ADVANCED
+  [OK] Bạn đã đoán đúng
+  [!] Đối thủ đã đoán đúng
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ADVANCED
+  [GUESS] Đã đoán: BARD
+  [GUESS] Đã đoán: POET
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: POET
+  [GUESS] Đã đoán: CURVED
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CURVED
+  [GUESS] Đã đoán: DIVERSE
+  [GUESS] Đã đoán: TWINING
+  [GUESS] Đã đoán: VARYING
+  [GUESS] Đã đoán: VARIETY
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: VARIETY
+  [GUESS] Đã đoán: SHEET
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SHEET
+  [GUESS] Đã đoán: INQUIRY
+  [GUESS] Đã đoán: ADVISER
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ADVISER
+  [GUESS] Đã đoán: GOLDEN
+  [GUESS] Đã đoán: SUPERB
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SUPERB
+  [GUESS] Đã đoán: RESPECT
+  [GUESS] Đã đoán: PROMOTE
+  [GUESS] Đã đoán: EXPLAIN
+  [GUESS] Đã đoán: EXPRESS
+  [GUESS] Đã đoán: ENHANCE
+  [GUESS] Đã đoán: ENTITLE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ENTITLE
+  [GUESS] Đã đoán: BRACKET
+  [GUESS] Đã đoán: PLACING
+  [GUESS] Đã đoán: BOOKING
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: BOOKING
+  [GUESS] Đã đoán: LOOK TO
+  [GUESS] Đã đoán: BACK-IN
+  [GUESS] Đã đoán: PULL-UP
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: PASS ON
+  [GUESS] Đã đoán: EXTREME
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: EXTREME
+  [GUESS] Đã đoán: CATCHALL
+  [GUESS] Đã đoán: POSITIVE
+  [GUESS] Đã đoán: SYNOPTIC
+  [GUESS] Đã đoán: SPONDAIC
+  [GUESS] Đã đoán: SPECIFIC
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SPECIFIC
+  [GUESS] Đã đoán: BUDGET
+  [GUESS] Đã đoán: AGENDA
+  [GUESS] Đã đoán: POLICY
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: POLICY
+  [GUESS] Đã đoán: ATTENDER
+  [GUESS] Đã đoán: ATTENDEE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ATTENDEE
+  [GUESS] Đã đoán: BUDGET
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: BUDGET
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: NEXT TO NOTHING
+  [GUESS] Đã đoán: BATHROOM
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: BATHROOM
+  [GUESS] Đã đoán: OVERNIGHT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: OVERNIGHT
+  [GUESS] Đã đoán: SOUND
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SOUND
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: SLIGHT
+  [GUESS] Đã đoán: CREEPY
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CREEPY
+  [GUESS] Đã đoán: OBSERVE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: OBSERVE
+  [GUESS] Đã đoán: CONNECTION
+  [GUESS] Đã đoán: CORRUPTION
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CORRUPTION
+  [GUESS] Đã đoán: MELTING-POT
+  [GUESS] Đã đoán: COOLING-OFF
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: TRAFFIC JAM
+  [GUESS] Đã đoán: CREATURE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CREATURE
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: TIME OFF
+  [GUESS] Đã đoán: TRANSFORM
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: TRANSLATE
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: REFEREE WHISTLE
+  [GUESS] Đã đoán: SUGAR
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SUGAR
+  [GUESS] Đã đoán: ASSOCIATE
+  [GUESS] Đã đoán: COALITION
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: COALITION
+  [GUESS] Đã đoán: FRUSTRATED
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: FRUSTRATED
+  [TIMEOUT] Hết giờ
+  [GUESS] Đã đoán: ARCHITECTURAL
+  [GUESS] Đã đoán: CORRELATIONAL
+  [GUESS] Đã đoán: CORRESPONDING
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CORRESPONDING
+  [GUESS] Đã đoán: NERVOUS
+  [GUESS] Đã đoán: ETHICAL
+  [GUESS] Đã đoán: WORRIED
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: WORRIED
+  [GUESS] Đã đoán: SEQUENCE
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: CUPBOARD
+  [GUESS] Đã đoán: ANNOUNCEMENT
+  [GUESS] Đã đoán: CONSTITUTION
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CONSTITUTION
+  [GUESS] Đã đoán: IGNORE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: IGNORE
+  [GUESS] Đã đoán: HANDFUL
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: SOLDIER
+  [GUESS] Đã đoán: INSPECTOR
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: INSPECTOR
+  [GUESS] Đã đoán: AFFORDABLE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: AFFORDABLE
+  [GUESS] Đã đoán: OVEREXPLOITATION
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: OVEREXPLOITATION
+  [GUESS] Đã đoán: PORTAGE
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: RAILWAY
+  [GUESS] Đã đoán: DEVASTATE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DEVASTATE
+  [GUESS] Đã đoán: LESSON
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: COURSE
+  [GUESS] Đã đoán: CONFIDENCE
+  [GUESS] Đã đoán: CAPITALISM
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CAPITALISM
+  [GUESS] Đã đoán: SHOOTING
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SHOOTING
+  [GUESS] Đã đoán: AID
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: AID
+  [GUESS] Đã đoán: POWDER
+  [GUESS] Đã đoán: SEARCH
+  [GUESS] Đã đoán: LOCATE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: LOCATE
+  [GUESS] Đã đoán: HOLDBACK
+  [GUESS] Đã đoán: POSTPONE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: POSTPONE
+  [GUESS] Đã đoán: RELATION
+  [GUESS] Đã đoán: MEANTIME
+  [GUESS] Đã đoán: MATERIAL
+  [GUESS] Đã đoán: MINISTER
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: MINISTER
+  [GUESS] Đã đoán: STANDARD
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: STANDARD
+  [GUESS] Đã đoán: PRODUCED
+  [GUESS] Đã đoán: BEGOTTEN
+  [GUESS] Đã đoán: MIRRORED
+  [GUESS] Đã đoán: MULTIPLE
+  [GUESS] Đã đoán: MAKEABLE
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: MANMADE
+  [GUESS] Đã đoán: SKIING
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SKIING
+  [GUESS] Đã đoán: PASSWORD
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PASSWORD
+  [GUESS] Đã đoán: MASTER
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: MASTER
+  [GUESS] Đã đoán: CONFIDENT
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: CONFIDENT
+  [GUESS] Đã đoán: BALANCE
+  [GUESS] Đã đoán: DIPLOMA
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DIPLOMA
+  [GUESS] Đã đoán: ACQUAINTANCE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ACQUAINTANCE
+  [GUESS] Đã đoán: RAW
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: RAW
+  [GUESS] Đã đoán: RENT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: RENT
+  [GUESS] Đã đoán: CONSIDERABLE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CONSIDERABLE
+  [GUESS] Đã đoán: INEXPENSIVE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: INEXPENSIVE
+  [GUESS] Đã đoán: NUMBER
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: NUMBER
+  [GUESS] Đã đoán: MANAGER
+  [GUESS] Đã đoán: SCHOLAR
+  [GUESS] Đã đoán: CASHIER
+  [GUESS] Đã đoán: CORONER
+  [GUESS] Đã đoán: CENTAUR
+  [GUESS] Đã đoán: CLEANER
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CLEANER
+  [GUESS] Đã đoán: SOMEWHERE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SOMEWHERE
+  [GUESS] Đã đoán: PRECISION
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PRECISION
+  [GUESS] Đã đoán: MEMORABLE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: MEMORABLE
+  [OK] Đã kết nối trình duyệt.
+  [GUESS] Đã đoán: FLAT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: FLAT
+  [GUESS] Đã đoán: POWERED
+  [GUESS] Đã đoán: OPERATE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: OPERATE
+  [GUESS] Đã đoán: NUMBER
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: NUMBER
+  [GUESS] Đã đoán: NERVOUS
+  [GUESS] Đã đoán: WORRIED
+  [GUESS] Đã đoán: ANXIOUS
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ANXIOUS
+  [GUESS] Đã đoán: HOBBY
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: HOBBY
+  [GUESS] Đã đoán: AGED
+  [GUESS] Đã đoán: TALL
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: BALD
+  [GUESS] Đã đoán: SHIPPER
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SHIPPER
+  [GUESS] Đã đoán: SPREAD
+  [GUESS] Đã đoán: SPRAWL
+  [GUESS] Đã đoán: EXPAND
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: EXPAND
+  [GUESS] Đã đoán: POWDER
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: RACKET
+  [GUESS] Đã đoán: CONSUMABLE
+  [GUESS] Đã đoán: RESTAURANT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: RESTAURANT
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   87
+  Đúng:      44  (50.6%)
+  Đã học:    56 từ mới
+  DB size:   53980
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: RAILWAY
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   1
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53980
+==================================================
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: ARRIVAL
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ARRIVAL
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: BE READY FOR
+  [GUESS] Đã đoán: DELEGATE
+  [GUESS] Đã đoán: POSTPONE
+  [GUESS] Đã đoán: CUPBOARD
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   5
+  Đúng:      2  (40.0%)
+  Đã học:    2 từ mới
+  DB size:   53981
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: MENDACITY
+  [GUESS] Đã đoán: INTEGRITY
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: INTEGRITY
+  [GUESS] Đã đoán: CONFIDENT
+  [GUESS] Đã đoán: DESPERATE
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: DELIGHTED
+  [GUESS] Đã đoán: SUBSTANTIALLY
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: APPROXIMATELY
+  [GUESS] Đã đoán: ONCOMING
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: UPCOMING
+  [GUESS] Đã đoán: EXPRESS
+  [GUESS] Đã đoán: TRIBUTE
+  [GUESS] Đã đoán: REQUEST
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   9
+  Đúng:      1  (11.1%)
+  Đã học:    4 từ mới
+  DB size:   53981
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: COMPETENCE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: COMPETENCE
+  [GUESS] Đã đoán: CENTRIST
+  [GUESS] Đã đoán: TALENTED
+  [GUESS] Đã đoán: TERRIBLE
+  [GUESS] Đã đoán: TOLERANT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: TOLERANT
+  [GUESS] Đã đoán: RELATION
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: RELATION
+  [GUESS] Đã đoán: STRAIGHTFORWARD
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: STRAIGHTFORWARD
+  [GUESS] Đã đoán: CUPBOARD
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CUPBOARD
+  [GUESS] Đã đoán: HAIL
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: HAIL
+  [GUESS] Đã đoán: TWEEN
+  [GUESS] Đã đoán: SOUND
+  [GUESS] Đã đoán: MINOR
+  [GUESS] Đã đoán: MIDST
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: MIDST
+  [GUESS] Đã đoán: VICTIM
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: VICTIM
+  [GUESS] Đã đoán: TOOL
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: TOOL
+  [GUESS] Đã đoán: UPPER-ECHELON
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   16
+  Đúng:      9  (56.2%)
+  Đã học:    9 từ mới
+  DB size:   53981
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: INCOMPATIBLE
+  [GUESS] Đã đoán: WHOLEHEARTED
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   2
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53982
+==================================================
+  [OK] AUTO MODE: ON.
+  [X] Loop Error: cannot access local variable 'status_logged' where it is not associated with a value
+  [GUESS] Đã đoán: COLOSSAL
+  [GUESS] Đã đoán: ENORMOUS
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ENORMOUS
+  [GUESS] Đã đoán: STAND
+  [GUESS] Đã đoán: ABIDE
+  [GUESS] Đã đoán: IRKED
+  [GUESS] Đã đoán: INCUR
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: INCUR
+  [GUESS] Đã đoán: MOUNT
+  [GUESS] Đã đoán: KNEE
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: KNEE
+  [GUESS] Đã đoán: BUSINESSWOMAN
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: BUSINESSWOMAN
+  [GUESS] Đã đoán: HIJACKER
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: AIRPLANE
+  [GUESS] Đã đoán: STIMULATE
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: ENCOURAGE
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   13
+  Đúng:      3  (23.1%)
+  Đã học:    6 từ mới
+  DB size:   53982
+==================================================
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: ASSOCIATE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ASSOCIATE
+  [GUESS] Đã đoán: EQUIPMENT
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   15
+  Đúng:      4  (26.7%)
+  Đã học:    7 từ mới
+  DB size:   53982
+==================================================
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: APPARATUS
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: APPARATUS
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   16
+  Đúng:      5  (31.2%)
+  Đã học:    8 từ mới
+  DB size:   53982
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: EXECUTIVE
+  [GUESS] Đã đoán: EXCURSION
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: EXCURSION
+  [GUESS] Đã đoán: ASSOCIATE
+  [GUESS] Đã đoán: CONNECTED
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CONNECTED
+  [GUESS] Đã đoán: DISRUPTION
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DISRUPTION
+  [GUESS] Đã đoán: CAPITAL
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   6
+  Đúng:      3  (50.0%)
+  Đã học:    3 từ mới
+  DB size:   53982
+==================================================
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: NERVOUS
+  [GUESS] Đã đoán: CAPITAL
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   8
+  Đúng:      3  (37.5%)
+  Đã học:    3 từ mới
+  DB size:   53982
+==================================================
+  [GUESS] Đã đoán: CENTRAL
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: TRANSPORT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: TRANSPORT
+  [GUESS] Đã đoán: JAW
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: JAW
+  [GUESS] Đã đoán: PENSIONER
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PENSIONER
+  [GUESS] Đã đoán: COSTUME
+  [GUESS] Đã đoán: APPAREL
+  [GUESS] Đã đoán: PROTECTION
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PROTECTION
+  [GUESS] Đã đoán: BOTTLED-WATER
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   16
+  Đúng:      7  (43.8%)
+  Đã học:    7 từ mới
+  DB size:   53982
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: FUNDING
+  [GUESS] Đã đoán: FINANCE
+  [GUESS] Đã đoán: FORTUNE
+  [GUESS] Đã đoán: FINDING
+  [GUESS] Đã đoán: FARMING
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   5
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53982
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: ATMOSPHERE
+  [GUESS] Đã đoán: ASTROLOGER
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ATMOSPHERE
+  [GUESS] Đã đoán: SECONDLY
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SECONDLY
+  [GUESS] Đã đoán: FLOOD
+  [GUESS] Đã đoán: WATER
+  [GUESS] Đã đoán: VAPOR
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: VAPOR
+  [GUESS] Đã đoán: ANTIQUARY
+  [GUESS] Đã đoán: COLLECTOR
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: COLLECTOR
+  [GUESS] Đã đoán: INCLUDE
+  [GUESS] Đã đoán: CONSIST
+  [GUESS] Đã đoán: INVOLVE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: INVOLVE
+  [GUESS] Đã đoán: SHOPPING-MALL
+  [GUESS] Đã đoán: STANDING-ROOM
+  [GUESS] Đã đoán: STRAIGHT-EDGE
+  [TIMEOUT] Hết giờ
+  └─ Đáp án của câu hỏi là: SHOPPING LIST
+  [GUESS] Đã đoán: PRECISION
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PRECISION
+  [GUESS] Đã đoán: TRIM
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: TRIM
+  [GUESS] Đã đoán: GENOCIDE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: GENOCIDE
+  [GUESS] Đã đoán: UNSAFE
+  [GUESS] Đã đoán: SECURE
+  [GUESS] Đã đoán: SCARED
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SECURE
+  [GUESS] Đã đoán: ONLY
+  [GUESS] Đã đoán: PAST
+  [GUESS] Đã đoán: JUST
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: JUST
+  [GUESS] Đã đoán: CONSEQUENTLY
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CONSEQUENTLY
+  [GUESS] Đã đoán: POWDER
+  [GUESS] Đã đoán: EXPERT
+  [GUESS] Đã đoán: LOUNGE
+  [GUESS] Đã đoán: LETTER
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: LETTER
+  [GUESS] Đã đoán: BE READY FOR
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: BE SORRY FOR
+  [GUESS] Đã đoán: APP
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: APP
+  [GUESS] Đã đoán: SYNCHRONIZED
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SYNCHRONIZED
+  [GUESS] Đã đoán: INFLUENCE
+  [GUESS] Đã đoán: COOPERATE
+  [GUESS] Đã đoán: CONDITION
+  [GUESS] Đã đoán: CULTIVATE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CULTIVATE
+  [GUESS] Đã đoán: ERGONOMIC
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ERGONOMIC
+  [GUESS] Đã đoán: CONTRAST
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CONTRAST
+  [GUESS] Đã đoán: COST
+  [GUESS] Đã đoán: TAIL
+  [GUESS] Đã đoán: LEAF
+  [GUESS] Đã đoán: LIMB
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: LIMB
+  [GUESS] Đã đoán: BENCHMARK
+  [GUESS] Đã đoán: COALITION
+  [GUESS] Đã đoán: CONDITION
+  [GUESS] Đã đoán: CHAMELEON
+  [GUESS] Đã đoán: CENTURION
+  [GUESS] Đã đoán: CONTAGION
+  [GUESS] Đã đoán: CUSTODIAN
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CRITERION
+  [GUESS] Đã đoán: ECHO
+  [GUESS] Đã đoán: RENT
+  [GUESS] Đã đoán: LAZE
+  [GUESS] Đã đoán: LOAF
+  [GUESS] Đã đoán: LEND
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: LEND
+  [GUESS] Đã đoán: SINCERE
+  [GUESS] Đã đoán: GENUINE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: GENUINE
+  [GUESS] Đã đoán: APPROVAL
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: APPROVAL
+  [GUESS] Đã đoán: IGNORE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: IGNORE
+  [GUESS] Đã đoán: POST
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: POST
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: APPROVAL
+  [GUESS] Đã đoán: AUDIENCE
+  [GUESS] Đã đoán: ATTITUDE
+  [GUESS] Đã đoán: APPETITE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: APPETITE
+  [GUESS] Đã đoán: WESTERN
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: WESTERN
+  [GUESS] Đã đoán: ARBITER
+  [GUESS] Đã đoán: WATCHER
+  [GUESS] Đã đoán: REALIST
+  [GUESS] Đã đoán: RESERVE
+  [GUESS] Đã đoán: RESOLVE
+  [GUESS] Đã đoán: RELEASE
+  [GUESS] Đã đoán: REFEREE
+  [TIMEOUT] Hết giờ
+  └─ Đáp án của câu hỏi là: REFEREE
+  [GUESS] Đã đoán: AID
+  [GUESS] Đã đoán: APP
+  [GUESS] Đã đoán: DIG
+  [GUESS] Đã đoán: LEG
+  [GUESS] Đã đoán: KEY
+  [GUESS] Đã đoán: KID
+  [TIMEOUT] Hết giờ
+  └─ Đáp án của câu hỏi là: KIT
+  [GUESS] Đã đoán: CUSTODIAN
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CUSTODIAN
+  [GUESS] Đã đoán: HIGHLIGHT
+  [GUESS] Đã đoán: ENCOURAGE
+  [GUESS] Đã đoán: EMPHASIZE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: EMPHASIZE
+  [GUESS] Đã đoán: ENCOURAGEMENT
+  [GUESS] Đã đoán: ENTERTAINMENT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ENCOURAGEMENT
+  [GUESS] Đã đoán: MELODY
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: MELODY
+  [GUESS] Đã đoán: HUMANOID
+  [GUESS] Đã đoán: CREATURE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CREATURE
+  [GUESS] Đã đoán: SOB
+  [GUESS] Đã đoán: WET
+  [GUESS] Đã đoán: DIG
+  [GUESS] Đã đoán: CRY
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CRY
+  [GUESS] Đã đoán: HOBBY
+  [GUESS] Đã đoán: HUMAN
+  [GUESS] Đã đoán: QUOTE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: QUOTE
+  [GUESS] Đã đoán: EXPERTISE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: EXPERTISE
+  [GUESS] Đã đoán: REVIEW
+  [GUESS] Đã đoán: CHANGE
+  [GUESS] Đã đoán: RECAST
+  [GUESS] Đã đoán: RESIZE
+  [GUESS] Đã đoán: REVISE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: REVISE
+  [GUESS] Đã đoán: ENTREPRENEUR
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ENTREPRENEUR
+  [GUESS] Đã đoán: CRAFT
+  [GUESS] Đã đoán: DRAMA
+  [GUESS] Đã đoán: STUFF
+  [GUESS] Đã đoán: SOUND
+  [GUESS] Đã đoán: SENSE
+  [TIMEOUT] Hết giờ
+  └─ Đáp án của câu hỏi là: SCOPE
+  [GUESS] Đã đoán: BRUNCH
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: BRUNCH
+  [GUESS] Đã đoán: POWDER
+  [GUESS] Đã đoán: LETTER
+  [GUESS] Đã đoán: LESSON
+  [GUESS] Đã đoán: LINDEN
+  [GUESS] Đã đoán: LAGOON
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: LONGAN
+  [GUESS] Đã đoán: STOPGAP
+  [GUESS] Đã đoán: INTERIM
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: INTERIM
+  [GUESS] Đã đoán: GYMNASTICS
+  [GUESS] Đã đoán: INSTRUMENT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: INSTRUMENT
+  [GUESS] Đã đoán: ASSOCIATE
+  [GUESS] Đã đoán: TEMPORARY
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: TEMPORARY
+  [GUESS] Đã đoán: COMPARE
+  [GUESS] Đã đoán: PRECEDE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PRECEDE
+  [GUESS] Đã đoán: ANNOUNCEMENT
+  [GUESS] Đã đoán: RELATIONSHIP
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: RELATIONSHIP
+  [GUESS] Đã đoán: IGNORE
+  [GUESS] Đã đoán: MASTER
+  [GUESS] Đã đoán: COURSE
+  [GUESS] Đã đoán: CONVEY
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CONVEY
+  [GUESS] Đã đoán: HOLIDAY
+  [GUESS] Đã đoán: SHIPPER
+  [GUESS] Đã đoán: REMAIN
+  [GUESS] Đã đoán: LOCATE
+  [GUESS] Đã đoán: LISTEN
+  [GUESS] Đã đoán: LABOUR
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: LINGER
+  [GUESS] Đã đoán: DROUGHT
+  [GUESS] Đã đoán: ARRIVAL
+  [GUESS] Đã đoán: PENALTY
+  [GUESS] Đã đoán: PURSUIT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PURSUIT
+  [GUESS] Đã đoán: DRAMA
+  [GUESS] Đã đoán: FIELD
+  [GUESS] Đã đoán: CRAFT
+  [GUESS] Đã đoán: COVER
+  [GUESS] Đã đoán: CLASS
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CLASS
+  [GUESS] Đã đoán: DEADLINE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DEADLINE
+  [GUESS] Đã đoán: HAIL
+  [GUESS] Đã đoán: WIRE
+  [GUESS] Đã đoán: LINK
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: LINK
+  [GUESS] Đã đoán: EMBASSY
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: EMBASSY
+  [GUESS] Đã đoán: BIODYNAMIC
+  [GUESS] Đã đoán: BIOLOGICAL
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: BIOLOGICAL
+  [GUESS] Đã đoán: COVER
+  [GUESS] Đã đoán: VALUE
+  [GUESS] Đã đoán: UNIFY
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: UNIFY
+  [GUESS] Đã đoán: SOUND
+  [GUESS] Đã đoán: AUDIO
+  [GUESS] Đã đoán: SONIC
+  [GUESS] Đã đoán: STEEL
+  [GUESS] Đã đoán: STOCK
+  [TIMEOUT] Hết giờ
+  └─ Đáp án của câu hỏi là: SLEEK
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [X] Loop Error: cannot access local variable 'status_logged' where it is not associated with a value
+  [X] Loop Error: cannot access local variable 'status_logged' where it is not associated with a value
+  [X] Loop Error: cannot access local variable 'status_logged' where it is not associated with a value
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   0
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53986
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: CHARCOAL
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CHARCOAL
+  [GUESS] Đã đoán: PRAGMATIST
+  [GUESS] Đã đoán: GRAPEFRUIT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: GRAPEFRUIT
+  [GUESS] Đã đoán: USER
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: USER
+  [GUESS] Đã đoán: INTERNATIONAL
+  [GUESS] Đã đoán: INTERGALACTIC
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: INTERNATIONAL
+  [GUESS] Đã đoán: FRACTION
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: FRACTION
+  [GUESS] Đã đoán: HISTOGRAM
+  [GUESS] Đã đoán: INCIDENCE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: INCIDENCE
+  [GUESS] Đã đoán: SHELF
+  [GUESS] Đã đoán: PRICE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PRICE
+  [GUESS] Đã đoán: EXPERT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: EXPERT
+  [GUESS] Đã đoán: RISK
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: RISK
+  [GUESS] Đã đoán: LABORATORY
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: LABORATORY
+  [GUESS] Đã đoán: HOCKEY
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: HOCKEY
+  [GUESS] Đã đoán: NOTORIOUS
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: NOTORIOUS
+  [GUESS] Đã đoán: AWARD
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: AWARD
+  [GUESS] Đã đoán: BACKSTROKE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: BACKSTROKE
+  [GUESS] Đã đoán: FAT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: FAT
+  [GUESS] Đã đoán: EXTINCTION
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: EXTINCTION
+  [GUESS] Đã đoán: INFECTION
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: INFECTION
+  [GUESS] Đã đoán: REFERENTIAL
+  [GUESS] Đã đoán: PROMOTIONAL
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PROMOTIONAL
+  [GUESS] Đã đoán: STOPGAP
+  [GUESS] Đã đoán: SOLVING
+  [GUESS] Đã đoán: MIDWIFE
+  [GUESS] Đã đoán: METHANE
+  [GUESS] Đã đoán: MANHOLE
+  [GUESS] Đã đoán: MEASURE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: MEASURE
+  [GUESS] Đã đoán: OBSERVE
+  [GUESS] Đã đoán: DICTATE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DICTATE
+  [GUESS] Đã đoán: CAMPUS
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CAMPUS
+  [GUESS] Đã đoán: STAPLE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: STAPLE
+  [GUESS] Đã đoán: GUARD
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: GUARD
+  [GUESS] Đã đoán: RESTED
+  [GUESS] Đã đoán: EXPERT
+  [GUESS] Đã đoán: ASLEEP
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ASLEEP
+  [GUESS] Đã đoán: DEEP
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DEEP
+  [GUESS] Đã đoán: WEIGHT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: WEIGHT
+  [GUESS] Đã đoán: UNCONCERNED
+  [GUESS] Đã đoán: INDIFFERENT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: INDIFFERENT
+  [GUESS] Đã đoán: IMPROPERLY
+  [GUESS] Đã đoán: RELATIVELY
+  [GUESS] Đã đoán: REASONABLY
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: REASONABLY
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: OVERTURN
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: OVERTURN
+  [GUESS] Đã đoán: WINDOW
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: WINDOW
+  [GUESS] Đã đoán: WIN
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: WIN
+  [GUESS] Đã đoán: SUPERINTENDENT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SUPERINTENDENT
+  [GUESS] Đã đoán: OPERATE
+  [GUESS] Đã đoán: EXPRESS
+  [GUESS] Đã đoán: DISLIKE
+  [GUESS] Đã đoán: DICTATE
+  [GUESS] Đã đoán: DEFINED
+  [GUESS] Đã đoán: DESCEND
+  [GUESS] Đã đoán: DEMOTED
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: DEBOARD
+  [GUESS] Đã đoán: DIMINISH
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DIMINISH
+  [GUESS] Đã đoán: MUCH
+  [GUESS] Đã đoán: JUST
+  [GUESS] Đã đoán: TALL
+  [GUESS] Đã đoán: LAZY
+  [GUESS] Đã đoán: LOUD
+  [GUESS] Đã đoán: LEAN
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: LEAN
+  [GUESS] Đã đoán: ORGANIZER
+  [GUESS] Đã đoán: PERSONNEL
+  [GUESS] Đã đoán: PESSIMIST
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PERSONNEL
+  [GUESS] Đã đoán: EXPERT
+  [GUESS] Đã đoán: HOCKEY
+  [GUESS] Đã đoán: SNORER
+  [GUESS] Đã đoán: SKIING
+  [GUESS] Đã đoán: STATUE
+  [GUESS] Đã đoán: SICKLE
+  [GUESS] Đã đoán: STANCE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: STANCE
+  [GUESS] Đã đoán: GENRE
+  [GUESS] Đã đoán: VAPOR
+  [GUESS] Đã đoán: FLOUR
+  [GUESS] Đã đoán: FLUID
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: FLUID
+  [GUESS] Đã đoán: DATE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DATE
+  [GUESS] Đã đoán: PRESIDENT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PRESIDENT
+  [GUESS] Đã đoán: WAGE
+  [GUESS] Đã đoán: EARN
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: EARN
+  [GUESS] Đã đoán: PROCEEDS
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PROCEEDS
+  [GUESS] Đã đoán: STARE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: STARE
+  [GUESS] Đã đoán: LAD
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: LAD
+  [GUESS] Đã đoán: LITERAL
+  [GUESS] Đã đoán: WORRIED
+  [GUESS] Đã đoán: VIRTUAL
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: VIRTUAL
+  [GUESS] Đã đoán: DISTRACTIVE
+  [GUESS] Đã đoán: DISTRACTING
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DISTRACTING
+  [GUESS] Đã đoán: SECONDARY
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SECONDARY
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [X] AI Error: cannot access local variable 't_low' where it is not associated with a value
+  [X] AI Error: cannot access local variable 't_low' where it is not associated with a value
+  [X] AI Error: cannot access local variable 't_low' where it is not associated with a value
+  [X] AI Error: cannot access local variable 't_low' where it is not associated with a value
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   0
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   53987
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: PINE
+  [GUESS] Đã đoán: PUSS
+  [GUESS] Đã đoán: PLUS
+  [TIMEOUT] Hết giờ
+  └─ Đáp án của câu hỏi là: PASS
+  [GUESS] Đã đoán: FELT
+  [GUESS] Đã đoán: HURL
+  [GUESS] Đã đoán: GLUE
+  [GUESS] Đã đoán: SING
+  [GUESS] Đã đoán: SKIN
+  [GUESS] Đã đoán: SOUR
+  [GUESS] Đã đoán: STIR
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: STIR
+  [GUESS] Đã đoán: RACE-BAITING
+  [GUESS] Đã đoán: FOOD-STORAGE
+  [GUESS] Đã đoán: RICE-GROWING
+  [GUESS] Đã đoán: RISK-SHARING
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: RARE SPECIES
+  [GUESS] Đã đoán: PURPOSE
+  [GUESS] Đã đoán: PURSUIT
+  [GUESS] Đã đoán: MISSION
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: MISSION
+  [GUESS] Đã đoán: ACCEPTABLE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ACCEPTABLE
+  [GUESS] Đã đoán: REMEDIATE
+  [GUESS] Đã đoán: RECONCILE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: RECONCILE
+  [GUESS] Đã đoán: ASSIST
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ASSIST
+  [GUESS] Đã đoán: GREEN
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: GREEN
+  [GUESS] Đã đoán: TEMPORARILY
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: TEMPORARILY
+  [GUESS] Đã đoán: HYPERMEDIA
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: MOTORCYCLE
+  [GUESS] Đã đoán: WORLD
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: EARTH
+  [GUESS] Đã đoán: ETHNIC
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: ETHNIC
+  [GUESS] Đã đoán: SURELY
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SURELY
+  [GUESS] Đã đoán: LADY
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: LADY
+  [GUESS] Đã đoán: MOON
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: MOON
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: A BLACK SHEEP OF THE FAMILY
+  [GUESS] Đã đoán: ENLARGE
+  [GUESS] Đã đoán: DEVELOP
+  [GUESS] Đã đoán: BROADEN
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: BROADEN
+  [GUESS] Đã đoán: HARMFUL
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: HARMFUL
+  [GUESS] Đã đoán: REINFORCE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: REINFORCE
+  [GUESS] Đã đoán: TELEPHONE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: TELEPHONE
+  [GUESS] Đã đoán: AFFORD
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: AFFORD
+  [GUESS] Đã đoán: ESSAY
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: ESSAY
+  [GUESS] Đã đoán: WET
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: WET
+  [GUESS] Đã đoán: ANALYST
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ANALYST
+  [GUESS] Đã đoán: LACK
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: LACK
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: GEOTHERMAL ENERGY
+  [GUESS] Đã đoán: GARGANTUAN
+  [GUESS] Đã đoán: TREMENDOUS
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: TREMENDOUS
+  [GUESS] Đã đoán: RED
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: RED
+  [GUESS] Đã đoán: DOZEN
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DOZEN
+  [GUESS] Đã đoán: RETIREMENT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: RETIREMENT
+  [GUESS] Đã đoán: BOUGAINVILLEA
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: BOUGAINVILLEA
+  [GUESS] Đã đoán: ADOPT
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: ADOPT
+  [GUESS] Đã đoán: PETAL
+  [GUESS] Đã đoán: FLOAT
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: BUNCH
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: ROASTED SUNFLOWER SEEDS
+  [GUESS] Đã đoán: CUT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CUT
+  [GUESS] Đã đoán: CRIMINAL
+  [GUESS] Đã đoán: INFORMAL
+  [GUESS] Đã đoán: IMMANENT
+  [GUESS] Đã đoán: INSOLENT
+  [GUESS] Đã đoán: IMPUDENT
+  [GUESS] Đã đoán: INHERENT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: INHERENT
+  [GUESS] Đã đoán: ENCOURAGEMENT
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: ENCOURAGEMENT
+  [GUESS] Đã đoán: EXPRESSION
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: EXPRESSION
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: SURE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SURE
+  [GUESS] Đã đoán: REPUTATION
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: REPUTATION
+  [GUESS] Đã đoán: WIDTH
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: WIDTH
+  [GUESS] Đã đoán: RAINY
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: RAINY
+  [GUESS] Đã đoán: OTHER
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: OTHER
+  [GUESS] Đã đoán: PASS ON
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: GROW UP
+  [GUESS] Đã đoán: BURDEN
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: BURDEN
+  [GUESS] Đã đoán: GRAND
+  [GUESS] Đã đoán: LARGE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: LARGE
+  [GUESS] Đã đoán: EVALUATE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: EVALUATE
+  [TIMEOUT] Hết giờ
+  └─ Đáp án của câu hỏi là: A BOLT FROM THE BLUE
+  [GUESS] Đã đoán: SCARED
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SCARED
+  [GUESS] Đã đoán: FARMING
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: FARMING
+  [GUESS] Đã đoán: MAYDAY
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: SIGNAL
+  [GUESS] Đã đoán: RELATION
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: RELATION
+  [GUESS] Đã đoán: SURPRISED
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SURPRISED
+  [GUESS] Đã đoán: POSITIVE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: POSITIVE
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: GO GREY
+  [GUESS] Đã đoán: TONGUE
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: ACCENT
+  [GUESS] Đã đoán: SHOPPING
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SHOPPING
+  [GUESS] Đã đoán: CHAMBERLAIN
+  [GUESS] Đã đoán: HOUSEKEEPER
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: HOUSEKEEPER
+  [GUESS] Đã đoán: CLUE
+  [GUESS] Đã đoán: TWIG
+  [GUESS] Đã đoán: PEST
+  [GUESS] Đã đoán: MOSS
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: MOLE
+  [GUESS] Đã đoán: REGISTERED
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: REGISTERED
+  [GUESS] Đã đoán: DIFFERENT
+  [GUESS] Đã đoán: DISPARATE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DISPARATE
+  [GUESS] Đã đoán: LOVE
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: KISS
+  [GUESS] Đã đoán: AFFORDABLE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: AFFORDABLE
+  [GUESS] Đã đoán: ROOM
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: ROOM
+  [GUESS] Đã đoán: PROCEEDS
+  [GUESS] Đã đoán: TURNOVER
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: TURNOVER
+  [GUESS] Đã đoán: WEIGH
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: VALUE
+  [GUESS] Đã đoán: DESTINATION
+  [GUESS] Đã đoán: REARRANGING
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: RESERVATION
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: A LOT OF
+  [GUESS] Đã đoán: CONSTITUTION
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CONSTITUTION
+  [GUESS] Đã đoán: WIRE
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: HOOK
+  [GUESS] Đã đoán: THERMOPHILIC
+  [GUESS] Đã đoán: CARCINOGENIC
+  [GUESS] Đã đoán: COBBLESTONED
+  [!] Đối thủ đã đoán đúng
+  [GUESS] Đã đoán: SNOWFLAKE
+  [GUESS] Đã đoán: AVALANCHE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: AVALANCHE
+  [GUESS] Đã đoán: ONTO
+  [GUESS] Đã đoán: OVER
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: OVER
+  [GUESS] Đã đoán: AGENDA
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: AGENDA
+  [GUESS] Đã đoán: NERVOUS
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: NERVOUS
+  [GUESS] Đã đoán: SEEKER
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SEEKER
+  [TIMEOUT] Hết giờ
+  └─ Đáp án của câu hỏi là: REMOTE WORK
+  [GUESS] Đã đoán: BOOK
+  [GUESS] Đã đoán: LEND
+  [GUESS] Đã đoán: KEEP
+  [GUESS] Đã đoán: HEAR
+  [GUESS] Đã đoán: HELD
+  [GUESS] Đã đoán: HAND
+  [GUESS] Đã đoán: HOLD
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: HOLD
+  [GUESS] Đã đoán: NEWSREADER
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [TIMEOUT] Hết giờ
+  └─ Đáp án của câu hỏi là: EXPLOREALLAVENUES
+  [GUESS] Đã đoán: SHORTEN
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SHORTEN
+  [GUESS] Đã đoán: INHERENT
+  [GUESS] Đã đoán: CRIMINAL
+  [GUESS] Đã đoán: RIGHTIST
+  [GUESS] Đã đoán: RELIABLE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: RELIABLE
+  [GUESS] Đã đoán: VACATE
+  [GUESS] Đã đoán: RELOAD
+  [GUESS] Đã đoán: UNLOAD
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: UNLOAD
+  [GUESS] Đã đoán: WORKOUT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: WORKOUT
+  [GUESS] Đã đoán: SHUT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SHUT
+  [GUESS] Đã đoán: REMIND
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: REMIND
+  [GUESS] Đã đoán: WARES
+  [GUESS] Đã đoán: STOCK
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: STOCK
+  [GUESS] Đã đoán: EXPENDITURE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: EXPENDITURE
+  [GUESS] Đã đoán: DETERMINE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DETERMINE
+  [TIMEOUT] Hết giờ
+  └─ Đáp án của câu hỏi là: INTWOSHAKES
+  [GUESS] Đã đoán: OFFICIAL
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: OFFICIAL
+  [GUESS] Đã đoán: DESKTOP
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DESKTOP
+  [GUESS] Đã đoán: NONE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: NONE
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [GUESS] Đã đoán: TOXIC
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: TOXIC
+  [GUESS] Đã đoán: UNPROFITABLE
+  [GUESS] Đã đoán: ADVANTAGEOUS
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ADVANTAGEOUS
+  [GUESS] Đã đoán: ACCOMPLISHMENT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ACCOMPLISHMENT
+  [GUESS] Đã đoán: SPECIFICATION
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SPECIFICATION
+  [GUESS] Đã đoán: AUTONOMOUS
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: AUTONOMOUS
+  [GUESS] Đã đoán: MAJORITY
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: MAJORITY
+  [GUESS] Đã đoán: WHISK
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: WHISK
+  [GUESS] Đã đoán: KNOWLEDGE
+  [GUESS] Đã đoán: AWARENESS
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: AWARENESS
+  [GUESS] Đã đoán: ADDENDUM
+  [GUESS] Đã đoán: CATHETER
+  [GUESS] Đã đoán: ASBESTOS
+  [GUESS] Đã đoán: APPENDIX
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: APPENDIX
+  [GUESS] Đã đoán: UNABLE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: UNABLE
+  [GUESS] Đã đoán: MINISTER
+  [GUESS] Đã đoán: OPTIMIST
+  [GUESS] Đã đoán: PITCHMAN
+  [GUESS] Đã đoán: PANGOLIN
+  [GUESS] Đã đoán: PLANTAIN
+  [GUESS] Đã đoán: PETITION
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PETITION
+  [GUESS] Đã đoán: PERSONAL-FINANCE
+  [GUESS] Đã đoán: EIGHTEEN-WHEELER
+  [TIMEOUT] Hết giờ
+  └─ Đáp án của câu hỏi là: ECONOMIC MIGRANT
+  [GUESS] Đã đoán: UPDATE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: UPDATE
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: QUOTATION MARK
+  [GUESS] Đã đoán: BRING
+  [GUESS] Đã đoán: BEGET
+  [GUESS] Đã đoán: CAUSE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CAUSE
+  [GUESS] Đã đoán: TITLE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: TITLE
+  [GUESS] Đã đoán: WORKFORCE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: WORKFORCE
+  [GUESS] Đã đoán: WRITTEN
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: WRITTEN
+  [GUESS] Đã đoán: COVER
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: COVER
+  [GUESS] Đã đoán: SUBSIDIARY
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SUBSIDIARY
+  [GUESS] Đã đoán: THERMOS
+  [GUESS] Đã đoán: MEASURE
+  [GUESS] Đã đoán: COUNCIL
+  [GUESS] Đã đoán: CLOTHES
+  [GUESS] Đã đoán: CYPRESS
+  [GUESS] Đã đoán: COLITIS
+  [GUESS] Đã đoán: CHASSIS
+  [TIMEOUT] Hết giờ
+  └─ Đáp án của câu hỏi là: CELSIUS
+  [GUESS] Đã đoán: MINGLE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: MINGLE
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: KILL TIME
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: TURN OFF THE LIGHT
+  [GUESS] Đã đoán: DISPLEASURE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DISPLEASURE
+  [GUESS] Đã đoán: AIRPLANE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: AIRPLANE
+  [GUESS] Đã đoán: SIMPLIFY
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SIMPLIFY
+  [GUESS] Đã đoán: SUSPECT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SUSPECT
+  [GUESS] Đã đoán: STAIR
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: STAIR
+  [GUESS] Đã đoán: SCARED
+  [GUESS] Đã đoán: CREEPY
+  [GUESS] Đã đoán: AGHAST
+  [GUESS] Đã đoán: AFRAID
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: AFRAID
+  [GUESS] Đã đoán: STEREOSCOPE
+  [GUESS] Đã đoán: SHAREHOLDER
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SHAREHOLDER
+  [GUESS] Đã đoán: SYRUP
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: COUGH
+  [GUESS] Đã đoán: ONCOMING
+  [GUESS] Đã đoán: IMMINENT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: IMMINENT
+  [GUESS] Đã đoán: MEASURE
+  [GUESS] Đã đoán: DISBAND
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: ADDRESS
+  [GUESS] Đã đoán: RECOMMENDATION
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: RECOMMENDATION
+  [GUESS] Đã đoán: INAPPROPRIATE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: INAPPROPRIATE
+  [GUESS] Đã đoán: ADOPTION
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ADOPTION
+  [GUESS] Đã đoán: FOREFRONT
+  [GUESS] Đã đoán: FIELDWORK
+  [GUESS] Đã đoán: PLACEMENT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PLACEMENT
+  [GUESS] Đã đoán: RESERVATION
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: RESERVATION
+  [GUESS] Đã đoán: SUDDEN
+  [GUESS] Đã đoán: ABRUPT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ABRUPT
+  [GUESS] Đã đoán: TOTALITARIAN
+  [GUESS] Đã đoán: DICTATORSHIP
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DICTATORSHIP
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: FLIGHT ATTENDANT
+  [GUESS] Đã đoán: TOOTLE
+  [GUESS] Đã đoán: WANDER
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: WANDER
+  [GUESS] Đã đoán: REPLACE
+  [GUESS] Đã đoán: SHIFTED
+  [GUESS] Đã đoán: CHANGED
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: CONVERT
+  [GUESS] Đã đoán: PLEASED
+  [GUESS] Đã đoán: COMICAL
+  [GUESS] Đã đoán: AMUSING
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: AMUSING
+  [TIMEOUT] Hết giờ
+  └─ Đáp án của câu hỏi là: TEN A PENNY
+  [GUESS] Đã đoán: HYDROGEN
+  [GUESS] Đã đoán: MARINADE
+  [GUESS] Đã đoán: HUMIDITY
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: HUMIDITY
+  [GUESS] Đã đoán: BOY
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: BAT
+  [GUESS] Đã đoán: TEMPORARY
+  [GUESS] Đã đoán: MEMORABLE
+  [GUESS] Đã đoán: EDEMATOUS
+  [GUESS] Đã đoán: EPIDERMAL
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: EPHEMERAL
+  [GUESS] Đã đoán: ROUTE
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ROUTE
+  [GUESS] Đã đoán: OFFICIAL
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: OFFICIAL
+  [GUESS] Đã đoán: NEONATE
+  [GUESS] Đã đoán: NEWBORN
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: NEWBORN
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: VISIT RELATIVES
+  [GUESS] Đã đoán: ADOLESCENT
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ADOLESCENT
+  [GUESS] Đã đoán: DUELIST
+  [GUESS] Đã đoán: FRECKLE
+  [GUESS] Đã đoán: FROGMAN
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: FRECKLE
+  [GUESS] Đã đoán: INTERIOR
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: INTERIOR

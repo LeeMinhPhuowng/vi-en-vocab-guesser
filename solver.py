@@ -130,8 +130,8 @@ def solve(game_data: dict, model_name: str = None, threshold: float = 0.5) -> st
     # LẤY DỮ LIỆU SẠCH TỪ BROWSER (Do JS_EXTRACT bóc tách bằng Class CSS)
     translation_vi = game_data.get("translation_vi", "")
     hint_vi = game_data.get("hint_vi", "")
-    example_en = game_data.get("example_en", "")
     example_vi = game_data.get("example_vi", "")
+    example_en = game_data.get("example_en", "")
 
     # CHỈ KHI NÀO JS KHÔNG LẤY ĐƯỢC (RỖNG) THÌ MỚI DÙNG FALLBACK
     if not hint_vi:
@@ -167,12 +167,12 @@ def solve(game_data: dict, model_name: str = None, threshold: float = 0.5) -> st
 
     # GIAI ĐOẠN 1: Tìm kiếm chính xác
     results = solver.solve(
-        hint_vi=hint_for_solve,
+        hint_vi=hint_vi, # Bây giờ là phần Giải thích chi tiết
         length=letter_count,
         pattern=pattern,
         word_structure=word_structure,
         example_en=example_en,
-        example_vi=example_vi,
+        translation_vi=translation_vi, # Đây là phần Nghĩa ngắn gọn
         pos_tag=pos_tag,
         tried_words=tried_words
     )
@@ -192,7 +192,7 @@ def solve(game_data: dict, model_name: str = None, threshold: float = 0.5) -> st
 
     return ""
 
-def learn(word, game_text, translation_vi="", hint_vi="", example_vi="", word_structure=None, pos_tag=""):
+def learn(word, game_text, translation_vi="", hint_vi="", word_structure=None, pos_tag=""):
     try:
         solver = _get_solver()
 
@@ -201,10 +201,9 @@ def learn(word, game_text, translation_vi="", hint_vi="", example_vi="", word_st
             return
         _learn_cache.add(key)
 
-        t_fallback, h_fallback, e_vi_fallback, _ = _extract_context(game_text)
+        t_fallback, h_fallback, _, _ = _extract_context(game_text)
         translation_vi = (translation_vi or t_fallback).strip()
         hint_vi = (hint_vi or h_fallback).strip()
-        example_vi = (example_vi or e_vi_fallback).strip()
 
         # Học cả bản dịch và gợi ý (nếu chúng khác nhau)
         for h in [translation_vi, hint_vi]:
@@ -212,7 +211,6 @@ def learn(word, game_text, translation_vi="", hint_vi="", example_vi="", word_st
                 solver.learn_new_case(
                     word=word,
                     hint_vi=h,
-                    example_vi=example_vi,
                     word_structure=word_structure,
                     pos_tag=pos_tag
                 )
