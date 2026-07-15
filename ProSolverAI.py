@@ -295,9 +295,9 @@ class ProSolverAI:
             is_space_match = candidates['word'].apply(lambda x: len(x) > split_idx and x[split_idx] == ' ')
             candidates.loc[is_space_match, 'final_score'] += 0.8
             
-            # Thưởng vừa cho Dấu gạch ngang (Từ ghép)
-            is_hyphen_match = candidates['word'].apply(lambda x: len(x) > split_idx and x[split_idx] == '-')
-            candidates.loc[is_hyphen_match, 'final_score'] += 0.4
+            # # Tạm ẩn: Thưởng vừa cho Dấu gạch ngang (Từ ghép)
+            # is_hyphen_match = candidates['word'].apply(lambda x: len(x) > split_idx and x[split_idx] == '-')
+            # candidates.loc[is_hyphen_match, 'final_score'] += 0.4
         
         if 'id' in candidates.columns:
             candidates = candidates.assign(

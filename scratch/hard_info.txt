@@ -1,0 +1,2 @@
+{'id': 401.0, 'word': 'hard', 'ipa': '/hɑrd/', 'parts': '["hard"]', 'meaning': '{"adjective": ["cứng", "khó khăn", "khắc nghiệt", "chăm chỉ", "khó", "Điều này mô tả một cái gì đó khó làm, khó hiểu hoặc khó đối phó."], "adverb": ["cứng rắn", "hết sức", "mạnh mẽ"]}', 'word_only': 'hard', 'hint_vi': 'chăm chỉ, hết sức, khắc nghiệt, cứng, khó khăn, cứng rắn, khó, mạnh mẽ, Điều này mô tả một cái gì đó khó làm, khó hiểu hoặc khó đối phó.', 'char_length': 4, 'word_structure': array([4]), 'pos_list': array(['adjective', 'adverb'], dtype=object)}
+

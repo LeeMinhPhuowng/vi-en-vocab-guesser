@@ -174,6 +174,7 @@ JS_EXTRACT = r"""(() => {
                 ) &&
                 (
                     t === "*" ||
+                    t === "" ||
                     (
                         t.length === 1 &&
                         /[a-zA-Z]/.test(t)
@@ -395,11 +396,16 @@ class Browser:
 
     def connect(self):
         try:
-            tabs = requests.get(f"http://localhost:{self.port}/json", timeout=2).json()
+            tabs = requests.get(f"http://127.0.0.1:{self.port}/json", timeout=2).json()
             page_tabs = [t for t in tabs if t.get("type") == "page"]
+            if not page_tabs:
+                print("  [DEBUG] Không tìm thấy tab nào (type='page'). Hãy mở 1 tab game mới.")
+                return False
             self.ws = websocket.create_connection(page_tabs[0]["webSocketDebuggerUrl"], timeout=5)
             return True
-        except: return False
+        except Exception as e:
+            print(f"  [DEBUG] Lỗi kết nối CDP: {e}")
+            return False
 
     def _send(self, method, params=None):
         if not self.ws: return None

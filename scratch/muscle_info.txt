@@ -1,0 +1,14 @@
+{'id': 1538.0, 'word': 'muscle', 'ipa': '/ˈmʌsəl/', 'parts': '["\'mus", "cle"]', 'meaning': '{"noun": ["cơ bắp", "bắp thịt"]}', 'word_only': 'muscle', 'hint_vi': 'cơ bắp, bắp thịt', 'char_length': 6, 'word_structure': array([6]), 'pos_list': array(['noun'], dtype=object)}
+
+{'id': 25362.0, 'word': 'muscled', 'ipa': '/ˈmʌsəld/', 'parts': '["\'mus", "cled"]', 'meaning': '{"adjective": ["cơ bắp", "lực lưỡng"]}', 'word_only': 'muscled', 'hint_vi': 'cơ bắp, lực lưỡng', 'char_length': 7, 'word_structure': array([7]), 'pos_list': array(['adjective'], dtype=object)}
+
+{'id': 32664.0, 'word': 'well-muscled', 'ipa': '/ˈwɛlˌmʌsəld/', 'parts': '["well", "\'mus", "cled"]', 'meaning': '{"adjective": ["cơ bắp", "lực lưỡng"]}', 'word_only': 'wellmuscled', 'hint_vi': 'cơ bắp, lực lưỡng', 'char_length': 11, 'word_structure': array([4, 7]), 'pos_list': array(['adjective'], dtype=object)}
+
+{'id': 32677.0, 'word': 'muscle-bound', 'ipa': '/ˈmʌsəlˌbaʊnd/', 'parts': '["\'mus", "cle", "bound"]', 'meaning': '{"adjective": ["cơ bắp quá mức", "cứng cơ", "quá cơ bắp", "Một người có cơ bắp rất lớn, cứng đờ, thường đến mức hạn chế cử động của họ. Họ cực kỳ cơ bắp."]}', 'word_only': 'musclebound', 'hint_vi': 'cứng cơ, cơ bắp quá mức, quá cơ bắp, Một người có cơ bắp rất lớn, cứng đờ, thường đến mức hạn chế cử động của họ. Họ cực kỳ cơ bắp.', 'char_length': 11, 'word_structure': array([6, 5]), 'pos_list': array(['adjective'], dtype=object)}
+
+{'id': 37451.0, 'word': 'muscle-building', 'ipa': '/ˈmʌsəlˌbɪldɪŋ/', 'parts': '["mus", "cle", "build", "ing"]', 'meaning': '{"adjective": ["tăng cơ", "xây dựng cơ bắp"]}', 'word_only': 'musclebuilding', 'hint_vi': 'tăng cơ, xây dựng cơ bắp', 'char_length': 14, 'word_structure': array([6, 8]), 'pos_list': array(['adjective'], dtype=object)}
+
+{'id': 44496.0, 'word': 'muscleman', 'ipa': '/ˈmʌsəlˌmæn/', 'parts': '["\'mus", "cle", "man"]', 'meaning': '{"noun": ["lực sĩ", "người cơ bắp"]}', 'word_only': 'muscleman', 'hint_vi': 'lực sĩ, người cơ bắp', 'char_length': 9, 'word_structure': array([9]), 'pos_list': array(['noun'], dtype=object)}
+
+{'id': 49543.0, 'word': 'hard-muscled', 'ipa': '/ˈhɑːrdˌmʌsəld/', 'parts': '["\'hard", "\'mus", "cled"]', 'meaning': '{"adj": ["cơ bắp cuồn cuộn"]}', 'word_only': 'hardmuscled', 'hint_vi': 'cơ bắp cuồn cuộn', 'char_length': 11, 'word_structure': array([4, 7]), 'pos_list': array(['adj'], dtype=object)}
+

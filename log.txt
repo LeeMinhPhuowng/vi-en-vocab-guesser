@@ -3499,3 +3499,1822 @@
   [GUESS] Đã đoán: INTERIOR
   [OK] Bạn đã đoán đúng
   └─ Đáp án của câu hỏi là: INTERIOR
+  [OK] AUTO MODE: ON.
+  [OK] AUTO MODE: ON.
+  [OK] AUTO MODE: ON.
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [OK] Đã kết nối trình duyệt.
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: SUNDER
+  [GUESS] Đã đoán: PARTED
+  [GUESS] Đã đoán: BRANCH
+  [GUESS] Đã đoán: RATION
+  [GUESS] Đã đoán: PARCEL
+  [GUESS] Đã đoán: BALKAN
+  [GUESS] Đã đoán: POWDER
+  [GUESS] Đã đoán: SECEDE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: BUNCH
+  [GUESS] Đã đoán: GENRE
+  [GUESS] Đã đoán: FAUNA
+  [GUESS] Đã đoán: FRUIT
+  [GUESS] Đã đoán: UDDER
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   13
+  Đúng:      0  (0.0%)
+  Đã học:    0 từ mới
+  DB size:   54006
+==================================================
+  [GUESS] Đã đoán: FILET
+  [OK] Đã kết nối trình duyệt.
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [OK] Đã kết nối trình duyệt.
+  [>] Số lượng ô chữ tìm thấy: 3
+  [GUESS] Đã đoán: MOW
+  [GUESS] Đã đoán: CUT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CUT
+  [>] Số lượng ô chữ tìm thấy: 13
+  [GUESS] Đã đoán: HERMAPHRODITE
+  [GUESS] Đã đoán: COMPANIONSHIP
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: COMPANIONSHIP
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: CITY
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CITY
+  [>] Số lượng ô chữ tìm thấy: 3
+  [GUESS] Đã đoán: SON
+  [GUESS] Đã đoán: CAR
+  [GUESS] Đã đoán: BOY
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: USB
+  [>] Số lượng ô chữ tìm thấy: 10
+  [GUESS] Đã đoán: WIDESPREAD
+  [GUESS] Đã đoán: PREVAILING
+  [GUESS] Đã đoán: POSTMODERN
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PREVAILING
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: INURE
+  [GUESS] Đã đoán: ALTER
+  [GUESS] Đã đoán: ADAPT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ADAPT
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: CONVERT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CONVERT
+  [>] Số lượng ô chữ tìm thấy: 10
+  [GUESS] Đã đoán: SURREALIST
+  [GUESS] Đã đoán: SURREALISM
+  [GUESS] Đã đoán: SECULARIST
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SURREALISM
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: GASSY
+  [GUESS] Đã đoán: SILTY
+  [GUESS] Đã đoán: FOGGY
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: FOGGY
+  [>] Số lượng ô chữ tìm thấy: 8
+  [GUESS] Đã đoán: FLAWLESS
+  [GUESS] Đã đoán: SPOTLESS
+  [GUESS] Đã đoán: SEEDLESS
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SPOTLESS
+  [!] AUTO MODE: OFF.
+
+==================================================
+  [AUTO MODE: OFF]
+  Lần thử:   24
+  Đúng:      10  (41.7%)
+  Đã học:    10 từ mới
+  DB size:   54007
+==================================================
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: COVER
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: COVER
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: SICK
+  [GUESS] Đã đoán: UGLY
+  [GUESS] Đã đoán: ICKY
+  [GUESS] Đã đoán: HARD
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: HARD
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: TROLLEY
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: TROLLEY
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: NUCLEUS
+  [GUESS] Đã đoán: NUCLIDE
+  [GUESS] Đã đoán: CENTRUM
+  [GUESS] Đã đoán: NEUTRON
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: NEUTRON
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: BOON
+  [GUESS] Đã đoán: GOOD
+  [GUESS] Đã đoán: SAKE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SAKE
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: SCRIPT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SCRIPT
+  [>] Số lượng ô chữ tìm thấy: 10
+  [GUESS] Đã đoán: DISRUPTION
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DISRUPTION
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: KISS
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: KISS
+  [>] Số lượng ô chữ tìm thấy: 10
+  [GUESS] Đã đoán: SCIENTIFIC
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SCIENTIFIC
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: TACH
+  [GUESS] Đã đoán: INCH
+  [GUESS] Đã đoán: PACE
+  [GUESS] Đã đoán: PINE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PACE
+  [>] Số lượng ô chữ tìm thấy: 10
+  [GUESS] Đã đoán: INITIATIVE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: INITIATIVE
+  [>] Số lượng ô chữ tìm thấy: 12
+  [GUESS] Đã đoán: HYPERKINETIC
+  [GUESS] Đã đoán: OVERWHELMING
+  [GUESS] Đã đoán: MOTIVATIONAL
+  [GUESS] Đã đoán: MASCULINIZED
+  [>] Số lượng ô chữ tìm thấy: 11
+  [GUESS] Đã đoán: MUSCLE-BOUND
+  [>] Số lượng ô chữ tìm thấy: 0
+  [TIMEOUT] Hết giờ
+  └─ Đáp án của câu hỏi là: MUSCLE-BOUND
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: CLAY
+  [GUESS] Đã đoán: MARL
+  [GUESS] Đã đoán: ROCK
+  [GUESS] Đã đoán: PLOT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PLOT
+  [>] Số lượng ô chữ tìm thấy: 9
+  [GUESS] Đã đoán: NEGOTIATE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: NEGOTIATE
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: ASSIGN
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ASSIGN
+  [>] Số lượng ô chữ tìm thấy: 9
+  [GUESS] Đã đoán: INTENTION
+  [GUESS] Đã đoán: BUNKHOUSE
+  [GUESS] Đã đoán: GUARANTOR
+  [GUESS] Đã đoán: GATHERING
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: GATHERING
+  [>] Số lượng ô chữ tìm thấy: 9
+  [GUESS] Đã đoán: JAYWALKER
+  [GUESS] Đã đoán: CROSSWALK
+  [GUESS] Đã đoán: CROSSBEAM
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CROSSWALK
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: DROUGHT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DROUGHT
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: FLYWAY
+  [GUESS] Đã đoán: COPTER
+  [GUESS] Đã đoán: JETWAY
+  [GUESS] Đã đoán: FALCON
+  [GUESS] Đã đoán: FRYING
+  [GUESS] Đã đoán: FIRING
+  [GUESS] Đã đoán: FILING
+  [GUESS] Đã đoán: FLYING
+  [>] Số lượng ô chữ tìm thấy: 0
+  [TIMEOUT] Hết giờ
+  └─ Đáp án của câu hỏi là: FLYING
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: BASIS
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: BASIS
+  [>] Số lượng ô chữ tìm thấy: 8
+  [GUESS] Đã đoán: VARIANCE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: VARIANCE
+  [>] Số lượng ô chữ tìm thấy: 8
+  [GUESS] Đã đoán: PRECLUDE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PRECLUDE
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: ACID
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ACID
+  [>] Số lượng ô chữ tìm thấy: 12
+  [GUESS] Đã đoán: EXCRUCIATING
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: EXCRUCIATING
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: HARE
+  [GUESS] Đã đoán: RILL
+  [GUESS] Đã đoán: MOOD
+  [GUESS] Đã đoán: DOLL
+  [GUESS] Đã đoán: DORM
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: DASH
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: CLIENT
+  [GUESS] Đã đoán: PATRON
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PATRON
+  [>] Số lượng ô chữ tìm thấy: 8
+  [GUESS] Đã đoán: DAUGHTER
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DAUGHTER
+  [>] Số lượng ô chữ tìm thấy: 10
+  [GUESS] Đã đoán: PRECOCIOUS
+  [GUESS] Đã đoán: DEVELOPING
+  [GUESS] Đã đoán: FATHERLESS
+  [GUESS] Đã đoán: FRANCISCAN
+  [>] Số lượng ô chữ tìm thấy: 0
+  [TIMEOUT] Hết giờ
+  └─ Đáp án của câu hỏi là: FULL-GROWN
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: REDUCE
+  [GUESS] Đã đoán: APPEAR
+  [GUESS] Đã đoán: TWEEZE
+  [GUESS] Đã đoán: FOMENT
+  [GUESS] Đã đoán: FORGET
+  [GUESS] Đã đoán: FIDGET
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: FIDGET
+  [>] Số lượng ô chữ tìm thấy: 12
+  [GUESS] Đã đoán: INAUGURATION
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: INAUGURATION
+  [>] Số lượng ô chữ tìm thấy: 12
+  [GUESS] Đã đoán: APPROACHABLE
+  [GUESS] Đã đoán: RECOGNISABLE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: APPROACHABLE
+  [>] Số lượng ô chữ tìm thấy: 10
+  [GUESS] Đã đoán: UNDERSIZED
+  [GUESS] Đã đoán: FRACTIONAL
+  [GUESS] Đã đoán: INELIGIBLE
+  [GUESS] Đã đoán: INADEQUATE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: INADEQUATE
+  [>] Số lượng ô chữ tìm thấy: 11
+  [GUESS] Đã đoán: INTOLERABLE
+  [GUESS] Đã đoán: UNENDURABLE
+  [GUESS] Đã đoán: UNCATCHABLE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: UNENDURABLE
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: STAIR
+  [GUESS] Đã đoán: STOCK
+  [GUESS] Đã đoán: SEDUM
+  [GUESS] Đã đoán: SHELF
+  [GUESS] Đã đoán: SPORE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [TIMEOUT] Hết giờ
+  └─ Đáp án của câu hỏi là: SUITE
+  [>] Số lượng ô chữ tìm thấy: 11
+  [GUESS] Đã đoán: BIRD-WATCHER
+  [GUESS] Đã đoán: ROLE-PLAYING
+  [GUESS] Đã đoán: BALL-BEARING
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: BALL BEARING
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: JOYOUS
+  [GUESS] Đã đoán: JOYFUL
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: JOYFUL
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: RESPECT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: RESPECT
+  [>] Số lượng ô chữ tìm thấy: 11
+  [>] Số lượng ô chữ tìm thấy: 0
+  [TIMEOUT] Hết giờ
+  └─ Đáp án của câu hỏi là: HUMAN RIGHTS
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: WOMAN
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: WOMAN
+  [>] Số lượng ô chữ tìm thấy: 10
+  [GUESS] Đã đoán: PREVENTION
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PREVENTION
+  [>] Số lượng ô chữ tìm thấy: 3
+  [GUESS] Đã đoán: EVE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: EVE
+  [>] Số lượng ô chữ tìm thấy: 9
+  [GUESS] Đã đoán: EXCURSION
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: EXCURSION
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: FIDGET
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: FIDGET
+  [>] Số lượng ô chữ tìm thấy: 8
+  [GUESS] Đã đoán: POSITRON
+  [GUESS] Đã đoán: SURROUND
+  [GUESS] Đã đoán: ELECTRON
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ELECTRON
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: RETAIN
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: RETAIN
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: RADIO
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: RADIO
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: ARISE
+  [GUESS] Đã đoán: ADOPT
+  [GUESS] Đã đoán: SPAWN
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SPAWN
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: SEDUM
+  [GUESS] Đã đoán: FROSH
+  [GUESS] Đã đoán: MATHS
+  [GUESS] Đã đoán: MONEY
+  [GUESS] Đã đoán: MELON
+  [GUESS] Đã đoán: MASER
+  [GUESS] Đã đoán: MAYOR
+  [>] Số lượng ô chữ tìm thấy: 0
+  [TIMEOUT] Hết giờ
+  └─ Đáp án của câu hỏi là: MAJOR
+  [>] Số lượng ô chữ tìm thấy: 16
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: RESIST TEMPTATION
+  [>] Số lượng ô chữ tìm thấy: 9
+  [GUESS] Đã đoán: IMMIGRANT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: IMMIGRANT
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: COLLOID
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: COLLOID
+  [>] Số lượng ô chữ tìm thấy: 9
+  [GUESS] Đã đoán: WINDSTORM
+  [GUESS] Đã đoán: RAINSTORM
+  [GUESS] Đã đoán: HURRICANE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: HURRICANE
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: PHALLIC
+  [GUESS] Đã đoán: HUMORAL
+  [GUESS] Đã đoán: GENERIC
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: GENERIC
+  [>] Số lượng ô chữ tìm thấy: 10
+  [GUESS] Đã đoán: SCHEDULING
+  [GUESS] Đã đoán: TRANSITION
+  [GUESS] Đã đoán: RESCHEDULE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: RESCHEDULE
+  [>] Số lượng ô chữ tìm thấy: 9
+  [GUESS] Đã đoán: LEGISLATE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: LEGISLATE
+  [>] Số lượng ô chữ tìm thấy: 12
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: MAKE AN EFFORT
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: LOVELY
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: LOVELY
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: MENU
+  [GUESS] Đã đoán: LANE
+  [GUESS] Đã đoán: BODY
+  [GUESS] Đã đoán: MISO
+  [GUESS] Đã đoán: MEAT
+  [GUESS] Đã đoán: MARE
+  [GUESS] Đã đoán: MOVE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [TIMEOUT] Hết giờ
+  └─ Đáp án của câu hỏi là: MILE
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: DRAG
+  [GUESS] Đã đoán: SHUT
+  [GUESS] Đã đoán: HOLD
+  [GUESS] Đã đoán: PULL
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PULL
+  [>] Số lượng ô chữ tìm thấy: 11
+  [GUESS] Đã đoán: STAKEHOLDER
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: STAKEHOLDER
+  [>] Số lượng ô chữ tìm thấy: 9
+  [GUESS] Đã đoán: BLESSEDLY
+  [GUESS] Đã đoán: UNLUCKILY
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: UNLUCKILY
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: STARE
+  [GUESS] Đã đoán: CLOCK
+  [GUESS] Đã đoán: VISIT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: VISIT
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: CONTROL
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CONTROL
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: CONVERT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CONVERT
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: STYMIE
+  [GUESS] Đã đoán: TURNED
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: MANAGE
+  [>] Số lượng ô chữ tìm thấy: 11
+  [GUESS] Đã đoán: LECTURESHIP
+  [GUESS] Đã đoán: RECRUITMENT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: RECRUITMENT
+  [>] Số lượng ô chữ tìm thấy: 3
+  [GUESS] Đã đoán: VAN
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: VAN
+  [>] Số lượng ô chữ tìm thấy: 9
+  [GUESS] Đã đoán: ORGANIZER
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ORGANIZER
+  [>] Số lượng ô chữ tìm thấy: 14
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: CHARGE THE PHONE
+  [>] Số lượng ô chữ tìm thấy: 11
+  [GUESS] Đã đoán: ACCENTUATED
+  [GUESS] Đã đoán: GESTICULATE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: GESTICULATE
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: HURT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: HURT
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: GINGER
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: GINGER
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: MANUS
+  [GUESS] Đã đoán: THUMB
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: REGION
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: REGION
+  [>] Số lượng ô chữ tìm thấy: 9
+  [GUESS] Đã đoán: CONFUSING
+  [GUESS] Đã đoán: EQUIVOCAL
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: EQUIVOCAL
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: LEVEL
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: SCORE
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: BLOW
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: BLOW
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: NEPHEW
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: NEPHEW
+  [>] Số lượng ô chữ tìm thấy: 11
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: OIL PAINTING
+  [>] Số lượng ô chữ tìm thấy: 8
+  [GUESS] Đã đoán: PLACENTA
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: BACKPACK
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: BACKER
+  [GUESS] Đã đoán: SELLER
+  [GUESS] Đã đoán: FUNDER
+  [GUESS] Đã đoán: PERSON
+  [GUESS] Đã đoán: PATRON
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PATRON
+  [>] Số lượng ô chữ tìm thấy: 9
+  [GUESS] Đã đoán: FREESTYLE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: FREESTYLE
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: STYMIED
+  [GUESS] Đã đoán: LIGHTEN
+  [GUESS] Đã đoán: RELIEVE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: RELIEVE
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: TEACHER
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: TEACHER
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: STARE
+  [GUESS] Đã đoán: VISIT
+  [GUESS] Đã đoán: CLOCK
+  [GUESS] Đã đoán: AMASS
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: AMASS
+  [>] Số lượng ô chữ tìm thấy: 13
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: IN THE MEANTIME
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: FRAIL
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: FRAIL
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: BRIS
+  [GUESS] Đã đoán: VINE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: FUSE
+  [>] Số lượng ô chữ tìm thấy: 10
+  [GUESS] Đã đoán: VOLLEYBALL
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: VOLLEYBALL
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: PROFIT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PROFIT
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: DRAMA
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DRAMA
+  [>] Số lượng ô chữ tìm thấy: 8
+  [GUESS] Đã đoán: REASSIGN
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: REASSIGN
+  [>] Số lượng ô chữ tìm thấy: 8
+  [GUESS] Đã đoán: EMPLOYEE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: EMPLOYEE
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: REQUEST
+  [GUESS] Đã đoán: INQUIRY
+  [GUESS] Đã đoán: ENQUIRY
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ENQUIRY
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: INCH
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: INCH
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: NEUROMA
+  [GUESS] Đã đoán: BOREDOM
+  [GUESS] Đã đoán: TRAGEDY
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: TRAGEDY
+  [>] Số lượng ô chữ tìm thấy: 9
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: BREAK DOWN
+  [>] Số lượng ô chữ tìm thấy: 11
+  [GUESS] Đã đoán: INDIFFERENT
+  [GUESS] Đã đoán: CHARISMATIC
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CHARISMATIC
+  [>] Số lượng ô chữ tìm thấy: 8
+  [GUESS] Đã đoán: ACTUALLY
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ACTUALLY
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: WHEREBY
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: INSTEAD
+  [>] Số lượng ô chữ tìm thấy: 8
+  [GUESS] Đã đoán: REQUIRED
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: ELIGIBLE
+  [>] Số lượng ô chữ tìm thấy: 11
+  [GUESS] Đã đoán: CRIMINOLOGY
+  [GUESS] Đã đoán: DELINQUENCY
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DELINQUENCY
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: GO GREY
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: GO GREY
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: BLOW
+  [GUESS] Đã đoán: BUCK
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: BUCK
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: MAGICAL
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: MAGICAL
+  [>] Số lượng ô chữ tìm thấy: 11
+  [GUESS] Đã đoán: OVERFISHING
+  [GUESS] Đã đoán: WATERFOWLER
+  [GUESS] Đã đoán: OBSTRUCTION
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: OVERHUNTING
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: FIDGET
+  [GUESS] Đã đoán: POWDER
+  [GUESS] Đã đoán: SUFFER
+  [GUESS] Đã đoán: SUBMIT
+  [GUESS] Đã đoán: SCREAM
+  [GUESS] Đã đoán: SQUIRM
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SQUIRM
+  [>] Số lượng ô chữ tìm thấy: 8
+  [GUESS] Đã đoán: CANDIDLY
+  [GUESS] Đã đoán: HONESTLY
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: HONESTLY
+  [>] Số lượng ô chữ tìm thấy: 3
+  [GUESS] Đã đoán: CAR
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: BUS
+  [>] Số lượng ô chữ tìm thấy: 9
+  [GUESS] Đã đoán: DETERMINE
+  [GUESS] Đã đoán: SPECULATE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SPECULATE
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: HONEST
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: HONEST
+  [>] Số lượng ô chữ tìm thấy: 10
+  [>] Số lượng ô chữ tìm thấy: 0
+  [TIMEOUT] Hết giờ
+  └─ Đáp án của câu hỏi là: ONE TOO MANY
+  [>] Số lượng ô chữ tìm thấy: 8
+  [GUESS] Đã đoán: HUMIDITY
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: HUMIDITY
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: FRUIT
+  [GUESS] Đã đoán: MAPLE
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: SHUT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: SLAM
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: LARCENY
+  [GUESS] Đã đoán: STEALER
+  [GUESS] Đã đoán: CULPRIT
+  [GUESS] Đã đoán: ROBBING
+  [GUESS] Đã đoán: ROBBERY
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: ROBBERY
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: DESPAIR
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DESPAIR
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: EXPERT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: EXPERT
+  [>] Số lượng ô chữ tìm thấy: 10
+  [GUESS] Đã đoán: CAUTIOUSLY
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CAUTIOUSLY
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: INWARD
+  [GUESS] Đã đoán: AROUND
+  [GUESS] Đã đoán: INHALE
+  [GUESS] Đã đoán: DYBBUK
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: DURING
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: CHANCEL
+  [GUESS] Đã đoán: SUNFISH
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: ECLIPSE
+  [>] Số lượng ô chữ tìm thấy: 9
+  [GUESS] Đã đoán: ECONOMICS
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ECONOMICS
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: HOLD
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: DRAW
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: GLORIFY
+  [GUESS] Đã đoán: COMMEND
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: COMMEND
+  [>] Số lượng ô chữ tìm thấy: 9
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: GREEN BELT
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: PROTECT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: PROTECT
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: BALLOT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: BALLOT
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: THEFT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: THEFT
+  [>] Số lượng ô chữ tìm thấy: 8
+  [GUESS] Đã đoán: PLANKTON
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: BACTERIA
+  [>] Số lượng ô chữ tìm thấy: 8
+  [GUESS] Đã đoán: CAPACITY
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CAPACITY
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: STAB
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: STAB
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: PAYMENT
+  [GUESS] Đã đoán: SOLVENT
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: VENA
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: VEIN
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: TYPO
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: FLAW
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: BAILOUT
+  [GUESS] Đã đoán: FINANCE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: FINANCE
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: BLEED
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: BLEED
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: LOOK TO
+  [GUESS] Đã đoán: PASS ON
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: TAKE ON
+  [>] Số lượng ô chữ tìm thấy: 9
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: LINE GRAPH
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: INHIBIT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: INHIBIT
+  [>] Số lượng ô chữ tìm thấy: 8
+  [GUESS] Đã đoán: HORRIFIC
+  [GUESS] Đã đoán: HORRIBLE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: TERRIBLE
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: COUSIN
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: COUSIN
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: BULLY
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: CATCH
+  [>] Số lượng ô chữ tìm thấy: 13
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: GET A KICK OUT OF
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: STUPID
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: STUPID
+  [>] Số lượng ô chữ tìm thấy: 11
+  [GUESS] Đã đoán: DISGRACEFUL
+  [GUESS] Đã đoán: EMBARRASSED
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: EMBARRASSED
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: SNAKE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: SNAKE
+  [>] Số lượng ô chữ tìm thấy: 3
+  [GUESS] Đã đoán: HOT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: HOT
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: LIDLESS
+  [GUESS] Đã đoán: INSIPID
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: INSIPID
+  [>] Số lượng ô chữ tìm thấy: 9
+  [GUESS] Đã đoán: CONFIGURE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CONFIGURE
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: SHOUT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SHOUT
+  [>] Số lượng ô chữ tìm thấy: 8
+  [GUESS] Đã đoán: PRODUCER
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PRODUCER
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: SENIOR
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SENIOR
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: BEAMY
+  [GUESS] Đã đoán: TUBBY
+  [GUESS] Đã đoán: PUDGY
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PUDGY
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: LAWYER
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: LAWYER
+  [>] Số lượng ô chữ tìm thấy: 13
+  [GUESS] Đã đoán: QUALIFICATION
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: QUALIFICATION
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: FINALLY
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: FINALLY
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: CONVERT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CONVERT
+  [>] Số lượng ô chữ tìm thấy: 8
+  [GUESS] Đã đoán: CONCLUDE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CONCLUDE
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: SQUALOR
+  [GUESS] Đã đoán: BULIMIA
+  [GUESS] Đã đoán: DIOCESE
+  [GUESS] Đã đoán: DIOXIDE
+  [GUESS] Đã đoán: DEFICIT
+  [GUESS] Đã đoán: DISGUST
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DISGUST
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: USEFUL
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: USEFUL
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: SHEET
+  [GUESS] Đã đoán: CLOTH
+  [GUESS] Đã đoán: LINEN
+  [GUESS] Đã đoán: LODEN
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: LINEN
+  [>] Số lượng ô chữ tìm thấy: 16
+  [GUESS] Đã đoán: ENVIRONMENTALIST
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ENVIRONMENTALIST
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: FUTURE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: FUTURE
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: BUOYANT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: HOPEFUL
+  [>] Số lượng ô chữ tìm thấy: 8
+  [GUESS] Đã đoán: MISQUOTE
+  [GUESS] Đã đoán: DENOUNCE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DENOUNCE
+  [>] Số lượng ô chữ tìm thấy: 3
+  [GUESS] Đã đoán: DUE
+  [GUESS] Đã đoán: OWN
+  [GUESS] Đã đoán: BUM
+  [GUESS] Đã đoán: SET
+  [GUESS] Đã đoán: PLC
+  [GUESS] Đã đoán: LOW
+  [GUESS] Đã đoán: LAX
+  [>] Số lượng ô chữ tìm thấy: 0
+  [TIMEOUT] Hết giờ
+  └─ Đáp án của câu hỏi là: LTD
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: TOUR
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: TOUR
+  [>] Số lượng ô chữ tìm thấy: 10
+  └─ Đáp án của câu hỏi là: TOUR
+  [>] Số lượng ô chữ tìm thấy: 0
+  └─ Đáp án của câu hỏi là: FELICITATE
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: PROFIT
+  [GUESS] Đã đoán: SIGNAL
+  [GUESS] Đã đoán: SENDER
+  [GUESS] Đã đoán: CHEQUE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CHEQUE
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: HEAVILY
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: HEAVILY
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: RUBBERY
+  [GUESS] Đã đoán: TUBULAR
+  [GUESS] Đã đoán: LOBULAR
+  [GUESS] Đã đoán: EMERALD
+  [GUESS] Đã đoán: ENDEMIC
+  [GUESS] Đã đoán: ENTERIC
+  [GUESS] Đã đoán: ELASTIC
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ELASTIC
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: COMMON
+  [GUESS] Đã đoán: QUIRKY
+  [GUESS] Đã đoán: EXOTIC
+  [GUESS] Đã đoán: EARTHY
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: EXOTIC
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: SOIL
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SOIL
+  [>] Số lượng ô chữ tìm thấy: 8
+  [GUESS] Đã đoán: DIMINISH
+  [GUESS] Đã đoán: MINIMIZE
+  [GUESS] Đã đoán: MITIGATE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: MINIMIZE
+  [>] Số lượng ô chữ tìm thấy: 3
+  [GUESS] Đã đoán: NUT
+  [GUESS] Đã đoán: ILK
+  [GUESS] Đã đoán: MAN
+  [GUESS] Đã đoán: LAW
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: ROD
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: PRODUCT
+  [GUESS] Đã đoán: TITHING
+  [GUESS] Đã đoán: CHARITY
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CHARITY
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: LUNG
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: LUNG
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: SAMPLE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: SAMPLE
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: HOSE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: PIPE
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: FACE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: FACE
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: TREMOR
+  [GUESS] Đã đoán: REGIME
+  [GUESS] Đã đoán: POWDER
+  [GUESS] Đã đoán: SEESAW
+  [GUESS] Đã đoán: SULCUS
+  [GUESS] Đã đoán: SOLEUS
+  [GUESS] Đã đoán: STASIS
+  [GUESS] Đã đoán: SEPSIS
+  [>] Số lượng ô chữ tìm thấy: 0
+  [TIMEOUT] Hết giờ
+  └─ Đáp án của câu hỏi là: SPASMS
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: POSE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: POSE
+  [>] Số lượng ô chữ tìm thấy: 11
+  [GUESS] Đã đoán: INATTENTIVE
+  [GUESS] Đã đoán: HERMENEUTIC
+  [GUESS] Đã đoán: MELANCHOLIC
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: MESMERIZING
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: SEWER
+  [GUESS] Đã đoán: KRILL
+  [GUESS] Đã đoán: DRINK
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: DRAIN
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: GLOSSY
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: GLOSSY
+  [>] Số lượng ô chữ tìm thấy: 7
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: WAR ZONE
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: PIECE
+  [GUESS] Đã đoán: CHUNK
+  [GUESS] Đã đoán: PROSE
+  [GUESS] Đã đoán: PENIS
+  [GUESS] Đã đoán: PEACH
+  [GUESS] Đã đoán: PUDGE
+  [GUESS] Đã đoán: PENNE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [TIMEOUT] Hết giờ
+  └─ Đáp án của câu hỏi là: PLATE
+  [>] Số lượng ô chữ tìm thấy: 8
+  [GUESS] Đã đoán: SECONDLY
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SECONDLY
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: VALUE
+  [GUESS] Đã đoán: HUMOR
+  [GUESS] Đã đoán: CHARM
+  [GUESS] Đã đoán: CRAFT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CHARM
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [>] Số lượng ô chữ tìm thấy: 0
+  [>] Số lượng ô chữ tìm thấy: 3
+  [GUESS] Đã đoán: RUN
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: RUN
+  [>] Số lượng ô chữ tìm thấy: 11
+  [GUESS] Đã đoán: OVERHUNTING
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: OVERHUNTING
+  [>] Số lượng ô chữ tìm thấy: 10
+  [GUESS] Đã đoán: HARNESSING
+  [GUESS] Đã đoán: REGULATING
+  [GUESS] Đã đoán: MESMERIZED
+  [GUESS] Đã đoán: MASTURBATE
+  [GUESS] Đã đoán: MAGNIFYING
+  [GUESS] Đã đoán: MENSTRUATE
+  [GUESS] Đã đoán: MOISTURIZE
+  [GUESS] Đã đoán: MANIPULATE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: MANIPULATE
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: RADIUS
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: RADIUS
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: RIGID
+  [GUESS] Đã đoán: TOUGH
+  [GUESS] Đã đoán: STERN
+  [GUESS] Đã đoán: STIFF
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: STIFF
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: PALE
+  [GUESS] Đã đoán: POSE
+  [GUESS] Đã đoán: BLOW
+  [GUESS] Đã đoán: LAZE
+  [GUESS] Đã đoán: DRAG
+  [GUESS] Đã đoán: DOTE
+  [GUESS] Đã đoán: DARN
+  [GUESS] Đã đoán: DULL
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DULL
+  [>] Số lượng ô chữ tìm thấy: 10
+  [GUESS] Đã đoán: ANTI-MATTER
+  [GUESS] Đã đoán: WIRE-RIMMED
+  [GUESS] Đã đoán: HARD-HEADED
+  [GUESS] Đã đoán: GOLD-PLATED
+  [GUESS] Đã đoán: GRAY-HEADED
+  [GUESS] Đã đoán: GRAY-HAIRED
+  [>] Số lượng ô chữ tìm thấy: 0
+  [TIMEOUT] Hết giờ
+  └─ Đáp án của câu hỏi là: GREY MATTER
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: CLASSIC
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CLASSIC
+  [>] Số lượng ô chữ tìm thấy: 9
+  [GUESS] Đã đoán: ANNOUNCER
+  [GUESS] Đã đoán: PESSIMIST
+  [GUESS] Đã đoán: REPORTAGE
+  [GUESS] Đã đoán: RECKONING
+  [GUESS] Đã đoán: RETELLING
+  [GUESS] Đã đoán: REPORTING
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: REPORTING
+  [>] Số lượng ô chữ tìm thấy: 10
+  [GUESS] Đã đoán: WATERMELON
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: WATERMELON
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: NEARLY
+  [GUESS] Đã đoán: SURELY
+  [GUESS] Đã đoán: ALMOST
+  [GUESS] Đã đoán: LATELY
+  [GUESS] Đã đoán: BARELY
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: BARELY
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: DRAMA
+  [GUESS] Đã đoán: REVUE
+  [GUESS] Đã đoán: MUSIC
+  [GUESS] Đã đoán: ACTOR
+  [GUESS] Đã đoán: STAGE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: STAGE
+  [>] Số lượng ô chữ tìm thấy: 10
+  [GUESS] Đã đoán: COLLOQUIUM
+  [GUESS] Đã đoán: CONFERENCE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CONFERENCE
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: HERB
+  [GUESS] Đã đoán: PILL
+  [GUESS] Đã đoán: DOSE
+  [GUESS] Đã đoán: DRUG
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DRUG
+  [>] Số lượng ô chữ tìm thấy: 8
+  [GUESS] Đã đoán: RICKSHAW
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: RICKSHAW
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: WEEK
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: WEEK
+  [>] Số lượng ô chữ tìm thấy: 13
+  [GUESS] Đã đoán: CORRELATIONAL
+  [GUESS] Đã đoán: INFORMATIONAL
+  [GUESS] Đã đoán: COMPREHENSIVE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: COMPREHENSIVE
+  [>] Số lượng ô chữ tìm thấy: 10
+  [GUESS] Đã đoán: SKEPTICISM
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SKEPTICISM
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: WRIST
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: WRIST
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: YOUTH
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: YOUTH
+  [OK] Đã kết nối trình duyệt.
+  [OK] AUTO MODE: ON.
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: RABBI
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: RABBI
+  [>] Số lượng ô chữ tìm thấy: 8
+  [GUESS] Đã đoán: REDEFINE
+  [GUESS] Đã đoán: CONCLUDE
+  [GUESS] Đã đoán: WITHHOLD
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: WITHHOLD
+  [>] Số lượng ô chữ tìm thấy: 10
+  [GUESS] Đã đoán: COMPARABLE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: EQUIVALENT
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: BUNCH
+  [GUESS] Đã đoán: LEHUA
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: ELITE
+  [>] Số lượng ô chữ tìm thấy: 8
+  [GUESS] Đã đoán: STANDING
+  [GUESS] Đã đoán: EXISTENT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: PREVIOUS
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: STUB
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: HEAD
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: RECIPE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: RECIPE
+  [>] Số lượng ô chữ tìm thấy: 16
+  [GUESS] Đã đoán: RESIST TEMPTATION
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: RESIST TEMPTATION
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: PROFIT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PROFIT
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: WARES
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: SHELF
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: WARN
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: WARN
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: SAUTÉ
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: HURRY
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: BLUB
+  [GUESS] Đã đoán: WEEP
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: WEEP
+  [>] Số lượng ô chữ tìm thấy: 10
+  [GUESS] Đã đoán: UNDERCOUNT
+  [GUESS] Đã đoán: UNDERVALUE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: UNDERVALUE
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: WORKOUT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: WORKOUT
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: POLICY
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: POLICY
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: ROUND
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: ROUND
+  [>] Số lượng ô chữ tìm thấy: 8
+  [GUESS] Đã đoán: MOLESTED
+  [GUESS] Đã đoán: MUTILATE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: MUTILATE
+  [>] Số lượng ô chữ tìm thấy: 12
+  [GUESS] Đã đoán: ENTHUSIASTIC
+  [GUESS] Đã đoán: HYPERKINETIC
+  [GUESS] Đã đoán: OVERPOWERING
+  [GUESS] Đã đoán: OVERWHELMING
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: OVERWHELMING
+  [>] Số lượng ô chữ tìm thấy: 9
+  [GUESS] Đã đoán: DIVERSIFY
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DIVERSIFY
+  [>] Số lượng ô chữ tìm thấy: 8
+  [GUESS] Đã đoán: ATYPICAL
+  [GUESS] Đã đoán: ABERRANT
+  [GUESS] Đã đoán: ABNORMAL
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ABNORMAL
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: HONEST
+  [GUESS] Đã đoán: SNARLY
+  [GUESS] Đã đoán: CANDID
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CANDID
+  [>] Số lượng ô chữ tìm thấy: 8
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: ENROLL IN
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: HEART
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: BELLY
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: VALUE
+  [GUESS] Đã đoán: PRIME
+  [GUESS] Đã đoán: CANON
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CANON
+  [>] Số lượng ô chữ tìm thấy: 8
+  [GUESS] Đã đoán: WATCHMAN
+  [GUESS] Đã đoán: UPHOLDER
+  [GUESS] Đã đoán: DEFENDER
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DEFENDER
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: NODAL
+  [GUESS] Đã đoán: PRIMA
+  [GUESS] Đã đoán: PRIME
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: PRIME
+  [>] Số lượng ô chữ tìm thấy: 10
+  [GUESS] Đã đoán: INCOHERENT
+  [GUESS] Đã đoán: CONFOUNDED
+  [GUESS] Đã đoán: PERPLEXING
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PERPLEXING
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: ROUND
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: ANGLE
+  [>] Số lượng ô chữ tìm thấy: 8
+  [GUESS] Đã đoán: RESPONSE
+  [GUESS] Đã đoán: FEEDBACK
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: FEEDBACK
+  [>] Số lượng ô chữ tìm thấy: 10
+  [GUESS] Đã đoán: PERFECTIVE
+  [GUESS] Đã đoán: FULFILLING
+  [GUESS] Đã đoán: PROFICIENT
+  [GUESS] Đã đoán: PRODUCTIVE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PRODUCTIVE
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: DIAMOND
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DIAMOND
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: COAX
+  [GUESS] Đã đoán: ABET
+  [GUESS] Đã đoán: JOIN
+  [GUESS] Đã đoán: URGE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: URGE
+  [>] Số lượng ô chữ tìm thấy: 13
+  [GUESS] Đã đoán: OVERWINTERING
+  [GUESS] Đã đoán: MITOCHONDRION
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: ACCOMMODATION
+  [>] Số lượng ô chữ tìm thấy: 8
+  [GUESS] Đã đoán: SORENESS
+  [GUESS] Đã đoán: DISTRESS
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DISTRESS
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: PALMTOP
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PALMTOP
+  [>] Số lượng ô chữ tìm thấy: 8
+  [GUESS] Đã đoán: EXULTANT
+  [GUESS] Đã đoán: EUPHORIC
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: EUPHORIC
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: JUMP
+  [GUESS] Đã đoán: LEAP
+  [GUESS] Đã đoán: SKIP
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SKIP
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: MANUAL
+  [GUESS] Đã đoán: LINEAR
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: LINEAR
+  [>] Số lượng ô chữ tìm thấy: 15
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: SURF THE INTERNET
+  [>] Số lượng ô chữ tìm thấy: 11
+  [GUESS] Đã đoán: DISTINGUISH
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DISTINGUISH
+  [>] Số lượng ô chữ tìm thấy: 8
+  [GUESS] Đã đoán: DIPLOMAT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DIPLOMAT
+  [>] Số lượng ô chữ tìm thấy: 6
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: HOLD ON
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: GALLING
+  [GUESS] Đã đoán: ANNOYED
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: ANNOYED
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: HECTIC
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: HECTIC
+  [>] Số lượng ô chữ tìm thấy: 9
+  [GUESS] Đã đoán: CRITERION
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: CONDITION
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: WORTH
+  [GUESS] Đã đoán: STOCK
+  [GUESS] Đã đoán: ASSET
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ASSET
+  [>] Số lượng ô chữ tìm thấy: 10
+  [GUESS] Đã đoán: INNOVATIVE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: INNOVATIVE
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: EDGY
+  [GUESS] Đã đoán: KEEN
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: KEEN
+  [>] Số lượng ô chữ tìm thấy: 9
+  [GUESS] Đã đoán: ATTENTION
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ATTENTION
+  [>] Số lượng ô chữ tìm thấy: 10
+  [GUESS] Đã đoán: DEPARTMENT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DEPARTMENT
+  [>] Số lượng ô chữ tìm thấy: 10
+  [GUESS] Đã đoán: ASSISTANCE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ASSISTANCE
+  [>] Số lượng ô chữ tìm thấy: 6
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: LUXURY
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: CAUSE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: CAUSE
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: CAPABLE
+  [GUESS] Đã đoán: SKILLED
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SKILLED
+  [>] Số lượng ô chữ tìm thấy: 9
+  [GUESS] Đã đoán: EXCURSION
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: EXCURSION
+  [>] Số lượng ô chữ tìm thấy: 3
+  [GUESS] Đã đoán: SOB
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: CRY
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: RUSH
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: RUSH
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: ARRIVAL
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: STATION
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: MOTIF
+  [GUESS] Đã đoán: ESSAY
+  [GUESS] Đã đoán: THEME
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: THEME
+  [>] Số lượng ô chữ tìm thấy: 9
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: GO FOR A RUN
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: RULER
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: RULER
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: SHELF
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: TABLE
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: REDRAFT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: COMPOSE
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: UNIFORM
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: UNIFORM
+  [>] Số lượng ô chữ tìm thấy: 14
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: ONE OF THOSE DAYS
+  [>] Số lượng ô chữ tìm thấy: 10
+  [GUESS] Đã đoán: LABORATORY
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: LABORATORY
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: PIVOTAL
+  [GUESS] Đã đoán: FATEFUL
+  [GUESS] Đã đoán: SALIENT
+  [GUESS] Đã đoán: SUPREME
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SUPREME
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: COMMIT
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: ASSIGN
+  [>] Số lượng ô chữ tìm thấy: 3
+  [GUESS] Đã đoán: LOW
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: LOW
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: HEAD
+  [GUESS] Đã đoán: NOSE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [!] Đối thủ đã đoán đúng
+  └─ Đáp án của câu hỏi là: FACE
+  [>] Số lượng ô chữ tìm thấy: 10
+  [GUESS] Đã đoán: MILLENNIUM
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: MILLENNIUM
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: FREE
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: FREE
+  [>] Số lượng ô chữ tìm thấy: 6
+  [GUESS] Đã đoán: LAGOON
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: LAGOON
+  [>] Số lượng ô chữ tìm thấy: 12
+  [GUESS] Đã đoán: PRESERVATION
+  [GUESS] Đã đoán: CONSERVATION
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: CONSERVATION
+  [>] Số lượng ô chữ tìm thấy: 4
+  [GUESS] Đã đoán: PAIN
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: PAIN
+  [>] Số lượng ô chữ tìm thấy: 11
+  [GUESS] Đã đoán: SCRUMPTIOUS
+  [GUESS] Đã đoán: MAGNIFICENT
+  [GUESS] Đã đoán: SPECTACULAR
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: SPECTACULAR
+  [>] Số lượng ô chữ tìm thấy: 12
+  [GUESS] Đã đoán: SPECTROSCOPY
+  [GUESS] Đã đoán: ONOMATOPOEIA
+  [GUESS] Đã đoán: ALLITERATION
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: ALLITERATION
+  [>] Số lượng ô chữ tìm thấy: 5
+  [GUESS] Đã đoán: SPEED
+  [GUESS] Đã đoán: TEMPO
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: TEMPO
+  [>] Số lượng ô chữ tìm thấy: 7
+  [GUESS] Đã đoán: TOTALED
+  [GUESS] Đã đoán: DESTROY
+  [>] Số lượng ô chữ tìm thấy: 0
+  [OK] Bạn đã đoán đúng
+  └─ Đáp án của câu hỏi là: DESTROY

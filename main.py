@@ -29,8 +29,8 @@ BANNER = f"""
 {Fore.CYAN}+==================================================+
 |  {Fore.GREEN}VOCAB Auto Guesser{Fore.CYAN}          |
 +==================================================+
-|  {Fore.YELLOW}F9 {Fore.WHITE} ->  Solve (doan + nhap dap an)  ~0.6s     {Fore.CYAN}|
-|  {Fore.YELLOW}F10{Fore.WHITE} ->  Exit                                  {Fore.CYAN}|
+|  {Fore.YELLOW}`  {Fore.WHITE} ->  Solve (doan + nhap dap an)  ~0.6s     {Fore.CYAN}|
+|  {Fore.YELLOW}ESC{Fore.WHITE} ->  Exit                                  {Fore.CYAN}|
 +==================================================+{Style.RESET_ALL}
 """
 
@@ -131,6 +131,13 @@ def auto_solve_loop(config):
                 continue
             
             current_text, letter_count = data.get("text", ""), data.get("letterCount", 0)
+            
+            # --- DEBUG LOG ---
+            if getattr(auto_solve_loop, "last_debug_letter_count", -1) != letter_count:
+                info(f"Số lượng ô chữ tìm thấy: {letter_count}")
+                auto_solve_loop.last_debug_letter_count = letter_count
+            # -----------------
+
             translation, ws_list = (data.get("translation_vi") or "").strip(), data.get("wordStructure") or []
             if ws_list and sum(ws_list) > 0:
                 auto_solve_loop.last_valid_ws = ws_list
@@ -244,7 +251,7 @@ def auto_solve_loop(config):
                 
                 # Logic delay: nếu hints không đổi (đoán sai), kiểm tra số lần sai để tăng delay
                 if last_submit_time and hints_now == hints_when_submitted:
-                    delay = 5.0 if current_hint_fails >= 2 else 3.0
+                    delay = 4.0 if current_hint_fails >= 2 else 2.0
                     if (time.perf_counter() - last_submit_time) < delay:
                         time.sleep(0.2)
                         continue
@@ -272,8 +279,7 @@ def auto_solve_loop(config):
                     session_stats["attempts"] += 1
                     last_solve_input_key = solve_key
                     answer = answer.lower()
-                    if "-" in answer and ws_list and len(ws_list) > 1:
-                        answer = answer.replace("-", " ")
+                    # Giữ nguyên answer, kể cả dấu gạch ngang
                     
                     if answer not in tried_words: tried_words.append(answer)
                     

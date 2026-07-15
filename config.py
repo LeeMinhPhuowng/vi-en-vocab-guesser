@@ -10,12 +10,12 @@ DEFAULT_CONFIG = {
     "cdp_port": 9222,
     "input_selector": "input[data-slot='input']",
     "submit_selector": "form", 
-    "hotkey_solve": "f9",
-    "hotkey_quit": "f10",
-    "model": "paraphrase-multilingual-MiniLM-L12-v2", 
+    "hotkey_solve": "`",
+    "hotkey_quit": "esc",
+    "model": "distiluse-base-multilingual-cased-v2", 
     "debug_mode": False,
-    "loop_delay": 3.0,
-    "confidence_threshold": 0.8
+    # "loop_delay": 3.0,  # Khong con su dung, thay bang delay thong minh trong main.py
+    "confidence_threshold": 4.0
 }
 
 
